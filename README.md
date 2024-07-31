@@ -12,5 +12,6 @@
   - eda.ipynb
 - Paper
   - final_project.pdf
+  - project_proposal.pdf
 - README.md
 
