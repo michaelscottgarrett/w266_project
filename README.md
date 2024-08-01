@@ -10,8 +10,9 @@
   - BERT.pdf
 - Notebooks
   - eda.ipynb
-- Paper
-  - final_project.pdf
+- Deliverables
+  - project_report.pdf
   - project_proposal.pdf
+  - project_presentation.pdf
 - README.md
 
