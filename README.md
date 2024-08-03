@@ -10,6 +10,10 @@
   - BERT.pdf
 - Notebooks
   - eda.ipynb
+  - Baseline.ipynb
+  - secBERT.ipynb
+  - sciBERT.ipynb
+  - F-Beta.ipynb
 - Deliverables
   - project_report.pdf
   - project_proposal.pdf
