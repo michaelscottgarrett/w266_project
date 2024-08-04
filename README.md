@@ -15,8 +15,8 @@
   - sciBERT.ipynb
   - F-Beta.ipynb
 - Deliverables
-  - project_report.pdf
-  - project_proposal.pdf
   - project_presentation.pdf
+  - project_proposal.pdf
+  - project_report.pdf
 - README.md
 
